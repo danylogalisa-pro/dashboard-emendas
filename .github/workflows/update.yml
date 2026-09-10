@@ -13,6 +13,20 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-      - run: mkdir -p data && curl -sL "https://docs.google.com/spreadsheets/d/1pbFOT5sEYhtsz9wk0mtrB-3dESaW8dEtqf6HatWYMOE/export?format=csv" -o data/emendas.csv && wc -l data/emendas.csv
-      - run: python3 scripts/update.py
-      - run: git config user.name "GitHub Actions" && git config user.email "actions@github.com" && git add -A && git commit -m "Update: $(date -u '+%d/%m/%Y %H:%M:%S')" || true && git push
+      
+      - name: Download CSV
+        run: |
+          mkdir -p data
+          curl -sL "https://docs.google.com/spreadsheets/d/1pbFOT5sEYhtsz9wk0mtrB-3dESaW8dEtqf6HatWYMOE/export?format=csv" -o data/emendas.csv
+          wc -l data/emendas.csv
+      
+      - name: Process and Generate HTML
+        run: python3 scripts/update.py
+      
+      - name: Commit and Push
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git commit -m "Update dashboard $(date -u '+%d/%m/%Y %H:%M:%S UTC')" || true
+          git push
