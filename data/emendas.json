@@ -442,10 +442,10 @@
     "beneficiario": "Associação Brasileira de Pesquisa e Tratamentos Multidisciplinares da Paralisia Cerebral - Instituto Rizo Movement",
     "valor": 500000.0,
     "valorEmpenhado": 500000.0,
-    "valorPago": 250000.0,
-    "percentualPago": 50.0,
+    "valorPago": 500000.0,
+    "percentualPago": 100.0,
     "situacao": "Em execução",
-    "observacao": "Decisão Adminstrativa autorizando o pagamento da 2ª parcela"
+    "observacao": "2ª Parcela paga em 08/09/2026. Aguardando Prestação de Contas"
   },
   {
     "vereador": "ENZO SAMUEL",
@@ -925,7 +925,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Impedimento Técnico",
-    "observacao": "Está na DPLAN. Inicialmente foi proposto reparo na bomba de ar comprimido; a Diretoria do Hospital afirma que o sistema de vácuo (aspiração) passou por manutenção em 05/05/2026."
+    "observacao": "Está na DPLAN. Inicialmente foi proposto reparo na bomba de ar comprimido; a Diretoria do Hospital afirma que o sistema de vácuo (aspiração) passou por manutenção em 05/05/2026. Devolvido para SEMPLAN em 10/09/2026."
   },
   {
     "vereador": "JUCA ALVES",
@@ -1533,7 +1533,7 @@
     "valorPago": 270000.0,
     "percentualPago": 50.0,
     "situacao": "Em execução",
-    "observacao": "1ª Parcela paga. Gestor emitiu Parecer Técnico da Prestação de Contas, mas NÃO LIBEROU 2ª PARCELA. Aguardando análise financeira/contábil, despesas antes da vigência do termo de Fomento. PROCESSO DE PRESTAÇÃO DE CONTAS: 00045.037033/2026-97 está no Gabinete da Presidência."
+    "observacao": "1ª Parcela paga. Gestor emitiu Parecer Técnico da Prestação de Contas, mas NÃO LIBEROU 2ª PARCELA. Aguardando análise financeira/contábil, despesas antes da vigência do termo de Fomento. PROCESSO DE PRESTAÇÃO DE CONTAS: 00045.037033/2026-97 está na DRCAA para esclarecimentos."
   },
   {
     "vereador": "VENANCIO",
