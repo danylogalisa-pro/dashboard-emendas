@@ -604,8 +604,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
-    "observacao": "Está na SEMPLAN desde 11/09/2026 para validação da Emenda."
+    "situacao": "Validada",
+    "observacao": "Emenda validada dia 14/09/2026"
   },
   {
     "vereador": "FERNANDA GOMES",
