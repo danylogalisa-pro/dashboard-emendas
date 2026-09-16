@@ -88,12 +88,12 @@
     "diretoria": "DAE",
     "tipo": "DIRETA",
     "beneficiario": "FMS",
-    "valor": 1507000.0,
+    "valor": 1168000.0,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Validada",
-    "observacao": "Processo está na DPLAN Atualizando Plano de Trabalho"
+    "situacao": "Em validação",
+    "observacao": "Emenda enviada em 16/09/2026 para SEMPLAN- SEPLAG"
   },
   {
     "vereador": "BRUNO VILARINHO",
