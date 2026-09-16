@@ -724,16 +724,16 @@
     "ano": 2026,
     "processo": "00046.009515/2025-16",
     "emenda": "7/2026",
-    "projeto": "Implementação de AÇÕES de EDUCAÇÃO permanente no âmbito da assistência à saúde da FMS. Clube da Gestante",
+    "projeto": "Reforma de Unidade Básica de Saúde - UBS: Reforma de Unidades Básicas de Saúde, incluindo Sinalização Gráfica de Identificação + Aquisição de Equipamentos para Atenção Básica dos seguintes\nestabelecimentos: UNIDADE BÁSICA DE SAÚDE FERNANDO G C LIMA - JACINTA ANDRADE II; UNIDADE BÁSICA DE SAUDE DR. ADONIAS R DE CARVALHO - MEMORARE; UNIDADE BÁSICA DE SAÚDE VEREADOR VALDINAR PEREIRA - MOCAMBINHO.",
     "diretoria": "DAB",
-    "tipo": "INDIRETA",
-    "beneficiario": "Associação de Apoio Assistencial, Cultural e Educacional Maria do Amparo-AACEMA",
+    "tipo": "DIRETA",
+    "beneficiario": "FMS",
     "valor": 500000.0,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "não foi enviada para a FMS."
+    "situacao": "Em validação",
+    "observacao": "Processo foi  enviado para a Fundação Municipal de Saú de Teresina em 16/09/2026."
   },
   {
     "vereador": "ISMAEL SILVA",
@@ -748,8 +748,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Impedimento Técnico",
-    "observacao": "Impedimento de Ordem Técnica. Emenda está no SEI com execução direta. Ofício enviado pela SEMPLAN ao vereador em 02/06/2026."
+    "situacao": "Em validação",
+    "observacao": "Em 16/09/2026 o processo foi enviado pela ORC-SEPLAG-SEMPLAN. Está em análise pela Diretoria de Planejamento."
   },
   {
     "vereador": "ISMAEL SILVA",
