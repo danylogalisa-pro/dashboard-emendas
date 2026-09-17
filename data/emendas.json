@@ -92,8 +92,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
-    "observacao": "Emenda enviada em 16/09/2026 para SEMPLAN- SEPLAG"
+    "situacao": "Validada",
+    "observacao": "Emenda alidada pela SEMPLAN em 17/09/2026. Processo está na GEPLAN para informar atualização da PAS 2026 e NUOR para análise da situação orçamentária e, caso necessário, solicitação de adequação da dotação orçamentária no processo pertinente."
   },
   {
     "vereador": "BRUNO VILARINHO",
@@ -253,7 +253,7 @@
     "valorPago": 332750.0,
     "percentualPago": 50.0,
     "situacao": "Em execução",
-    "observacao": "1ª Parcela paga. Gestor emitiu Parecer Técnico da Prestação de Contas, mas NÃO LIBEROU 2ª PARCELA. Aguardando análise financeira/contábil, despesas antes da vigência do termo de Fomento. PROCESSO DE PRESTAÇÃO DE CONTAS: 00045.038554/2026-61 está no Gabinete da Presidência."
+    "observacao": "1ª Parcela paga. Gestor emitiu Parecer Técnico da Prestação de Contas, mas NÃO LIBEROU 2ª PARCELA. Aguardando análise financeira/contábil, despesas antes da vigência do termo de Fomento. PROCESSO DE PRESTAÇÃO DE CONTAS 1: 00045.020436/2026-7 (GAB-PRES), Prestação de Contas 2: 00045.038554/2026-61 na Assessoria Jurídica para manifestação."
   },
   {
     "vereador": "DEOLINDO MOURA",
@@ -605,7 +605,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Validada",
-    "observacao": "Emenda validada dia 14/09/2026"
+    "observacao": "Emenda validada dia 14/09/2026. Está aguardando ajsutes no plano de trabalho pela Clínica Batista"
   },
   {
     "vereador": "FERNANDA GOMES",
@@ -733,7 +733,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Processo foi  enviado para a Fundação Municipal de Saú de Teresina em 16/09/2026."
+    "observacao": "Processo foi  enviado para a Fundação Municipal de Saú de Teresina em 16/09/2026. Está em análise de conformidade na Diretoria de Planejamento"
   },
   {
     "vereador": "ISMAEL SILVA",
@@ -749,7 +749,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Em 16/09/2026 o processo foi enviado pela ORC-SEPLAG-SEMPLAN. Está em análise pela Diretoria de Planejamento."
+    "observacao": "Em 16/09/2026 o processo foi enviado pela ORC-SEPLAG-SEMPLAN. Está em análise de conformidade pela Diretoria de Planejamento."
   },
   {
     "vereador": "ISMAEL SILVA",
@@ -1245,7 +1245,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Em licitação"
+    "observacao": "Em licitação, ambulâncias (00045.023515/2026-72), monitores (00045.021398/2026-98). Vereador precisa se manifestação sobre a redução do valor total das emendas"
   },
   {
     "vereador": "PETRUS EVELYN",
@@ -1261,7 +1261,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Está na DPLAN para fazer Plano de trabalho em conjunto com área técnica"
+    "observacao": "Está na DPLAN para fazer Plano de trabalho em conjunto com área técnica. Vereador precisa se manifestação sobre a redução do valor total das emendas"
   },
   {
     "vereador": "PETRUS EVELYN",
@@ -1277,7 +1277,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Em licitação."
+    "observacao": "Em licitação, processo: 00045.056673/2025-22. Vereador precisa se manifestação sobre a redução do valor total das emendas"
   },
   {
     "vereador": "RENATO BERGER",
