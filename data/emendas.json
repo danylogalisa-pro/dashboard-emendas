@@ -76,8 +76,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "Não enviada para FMS"
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Há uma divergência entre os dados do cadastro da Emenda, está para APD e o Plano de trabalho está para a CEIR. Processo está na DPLAN."
   },
   {
     "vereador": "ANA FIDELIS",
@@ -141,7 +141,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Está na DPLAN aguardando as mudanças no plano de trabalho pela Clínica Batista."
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN desde 07/05/2026 aguardando alteração da Clínica Batista"
   },
   {
     "vereador": "BRUNO VILARINHO",
@@ -157,7 +157,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Está na DPLAN aguardando as mudanças no plano de trabalho pela Clínica Batista."
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN desde 07/05/2026 aguardando alteração da Clínica Batista"
   },
   {
     "vereador": "CAPITÃO ROBERVAL QUEIROZ",
@@ -220,8 +220,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "Não enviada para a FMS"
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "DANIEL CARVALHO",
@@ -237,7 +237,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "No Conselho Municipal de Saúde de Teresina para análise da Habilitação da Organização."
+    "observacao": "Processo está no Conselho Municipal de Saúde de Teresina desde o dia 08/09/2026 para análise da Habilitação da Organização."
   },
   {
     "vereador": "DEOLINDO MOURA",
@@ -284,8 +284,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "Não foi enviada para a FMS."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "EDILBERTO BORGES",
@@ -317,14 +317,14 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "No Conselho Municipal de Saúde de Teresina para análise da Habilitação da Organização."
+    "observacao": "Processo está no Conselho Municipal de Saúde de Teresina desde o dia 26/08/2026 para análise da Habilitação da Organização."
   },
   {
     "vereador": "EDUARDO DRAGA ALANA",
     "ano": 2026,
     "processo": "00046.009455/2025-84",
     "emenda": "3/2026",
-    "projeto": "Realização de mutirões de exames para redução de fila de espera de regulação pela FMS: Endoscopia, Colonoscopia, Ultrassonografia e Ecocardiografia.",
+    "projeto": "Realização de mutirões de exames para redução de fila de espera de regulação pela FMS: Endoscopia, Colonoscopia, Ultrassonografia e Ecocardiografia. Mutirão de Mamografia em consultório móvel",
     "diretoria": "DRCAA",
     "tipo": "INDIRETA",
     "beneficiario": "Fundação para o Desenvolvimento Sustentável do Estado do Piauí – FUNDESP",
@@ -332,8 +332,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "Não foi enviada para a FMS."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "EDUARDO DRAGA ALANA",
@@ -348,8 +348,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "não foi enviada para a FMS."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "EDUARDO DRAGA ALANA",
@@ -364,8 +364,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "não foi enviada para a FMS."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "ELZUILA CALISTO",
@@ -388,8 +388,8 @@
     "ano": 2026,
     "processo": "00046.009471/2025-40",
     "emenda": "9/2026",
-    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro. OCI OFTALMOLOGIA",
-    "diretoria": "DAE",
+    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro. Mutirão Oftalmologia",
+    "diretoria": "DRCAA",
     "tipo": "INDIRETA",
     "beneficiario": "Clínica Batista Peggy Pemble",
     "valor": 200000.0,
@@ -397,17 +397,17 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Está na DPLAN aguardando alterações no plano de trabalho pela Clínica Batista."
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN desde 09/05/2026 aguardando alteração da Clínica Batista"
   },
   {
     "vereador": "ELZUILA CALISTO",
     "ano": 2026,
     "processo": "00046.009470/2025-67",
     "emenda": "8/2026",
-    "projeto": "Incremento MAC - Fortalecimento da Rede Própria da Atenção Especializada da FMS",
+    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro.",
     "diretoria": "DAE",
-    "tipo": "DIRETA",
-    "beneficiario": "FMS",
+    "tipo": "INDIRETA",
+    "beneficiario": "Associação Piauiense Desenvolver – APD",
     "valor": 600000.0,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
@@ -420,7 +420,7 @@
     "ano": 2026,
     "processo": "00046.009463/2025-62",
     "emenda": "1/2026",
-    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro. MUTIRÃO DE OFTALMOLOGIA.",
+    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro. MUTIRÃO OFALMOLOFIA",
     "diretoria": "DRCAA",
     "tipo": "INDIRETA",
     "beneficiario": "Associação Piauiense Desenvolver – APD",
@@ -428,8 +428,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "não foi enviada para a FMS."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "ENZO SAMUEL",
@@ -484,7 +484,7 @@
     "ano": 2026,
     "processo": "00046.009479/2025-18",
     "emenda": "8/2026",
-    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro. Realização de Mutirões.",
+    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro. Realização de Mutirões. PROJETO REDE INTEGRAR 3",
     "diretoria": "DRCAA",
     "tipo": "INDIRETA",
     "beneficiario": "Associação Brasileira de Pesquisa e Tratamentos Multidisciplinares da Paralisia Cerebral - Instituto Rizo Movement",
@@ -492,15 +492,15 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "não foi enviada para a FMS."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "ENZO SAMUEL",
     "ano": 2026,
     "processo": "00046.009478/2025-45",
     "emenda": "7/2026",
-    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro. Realização de Mutirões.",
+    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro. Realização de Mutirões. PROJETO TRAGETÓRIAS VIVAS 2",
     "diretoria": "DRCAA",
     "tipo": "INDIRETA",
     "beneficiario": "Associação Brasileira de Pesquisa e Tratamentos Multidisciplinares da Paralisia Cerebral - Instituto Rizo Movement",
@@ -508,8 +508,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "não foi enviada para a FMS."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "ENZO SAMUEL",
@@ -525,7 +525,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Está na DPLAN aguardando mudanças no plano de trabalho pela Clínica Batista."
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN desde 09/05/2026 aguardando alteração da Clínica Batista"
   },
   {
     "vereador": "EVANDRO HIDD",
@@ -637,7 +637,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Processo está na DPLAN aguardando as mudanças no plano de trabalho pela Clínica Batista."
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN desde 07/05/2026 aguardando alteração da Clínica Batista"
   },
   {
     "vereador": "FERNANDO LIMA",
@@ -652,8 +652,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "não foi enviada para a FMS."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "GUSTAVO CARVALHO",
@@ -684,8 +684,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "não foi enviada para a FMS."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "ISMAEL SILVA",
@@ -733,7 +733,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Processo foi  enviado para a Fundação Municipal de Saú de Teresina em 16/09/2026. Está em análise de conformidade na Diretoria de Planejamento"
+    "observacao": "Processo foi  enviado para a Fundação Municipal de Saúde de Teresina em 16/09/2026. Está em análise de conformidade na Diretoria de Planejamento"
   },
   {
     "vereador": "ISMAEL SILVA",
@@ -836,16 +836,16 @@
     "ano": 2026,
     "processo": "00046.009518/2025-32",
     "emenda": "1/2026",
-    "projeto": "Implementação de Ações de Educação Permanente no âmbito da assistência à saúde da FMS",
+    "projeto": "Implementação de Ações de Educação Permanente no âmbito da assistência à saúde da FMS. DESENVOLVIMENTO INTEGRAL CRIANÇAS COM AUTISMO",
     "diretoria": "DAB",
-    "tipo": "DIRETA",
-    "beneficiario": "FMS",
+    "tipo": "INDIRETA",
+    "beneficiario": "Associação de Apoio Assistencial, Cultural e Educacional Maria do Amparo - AACEMA",
     "valor": 1357000.0,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "não foi enviada para a FMS. Dados no SEI divergem do SECIEPI (consta como indireta para a AACEMA)."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "JOAQUIM CALDAS",
@@ -892,8 +892,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "não foi enviada para a FMS."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "JOAQUIM CALDAS",
@@ -901,15 +901,15 @@
     "processo": "00046.009532/2025-42",
     "emenda": "5/2026",
     "projeto": "Implementação de Ações de Educação Permanente no âmbito da assistência à saúde da FMS",
-    "diretoria": "DAB",
+    "diretoria": "DAE",
     "tipo": "INDIRETA",
-    "beneficiario": "Instituto Projetando o Resgate da Cidadania de Crianças e Adolescentes",
+    "beneficiario": "Instituto de prevenção saúde da mulher",
     "valor": 757000.0,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "não foi enviada para a FMS."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "JUCA ALVES",
@@ -925,7 +925,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Impedimento Técnico",
-    "observacao": "Está na DPLAN. Inicialmente foi proposto reparo na bomba de ar comprimido; a Diretoria do Hospital afirma que o sistema de vácuo (aspiração) passou por manutenção em 05/05/2026. Devolvido para SEMPLAN em 10/09/2026."
+    "observacao": "Enviado para a SEMPLAN em 10/092026 e concluído."
   },
   {
     "vereador": "JUCA ALVES",
@@ -956,24 +956,24 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "não foi enviada para a FMS."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "LEONIDAS JÚNIOR",
     "ano": 2026,
     "processo": "00046.009548/2025-95",
     "emenda": "2/2026",
-    "projeto": "Dispensação de Medicamentos pelos CAPS",
+    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro",
     "diretoria": "DAE",
-    "tipo": "DIRETA",
-    "beneficiario": "FMS",
+    "tipo": "INDIRETA",
+    "beneficiario": "Associação de Apoio Assistencial, Cultural e Educacional Maria do Amparo - AACEMA",
     "valor": 202310.06,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "não foi enviada para a FMS."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "LEONIDAS JÚNIOR",
@@ -1069,7 +1069,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "No Conselho Municipal de Saúde de Teresina para análise da Habilitação da Organização."
+    "observacao": "Processo está no Conselho Municipal de Saúde de Teresina desde o dia 08/09/2026 para análise da Habilitação da Organização."
   },
   {
     "vereador": "LUIS LOBÃO",
@@ -1324,15 +1324,15 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "não foi enviada para a FMS."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "SAMUEL ALENCAR",
     "ano": 2026,
     "processo": "00046.009603/2025-65",
     "emenda": "6/2026",
-    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro",
+    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro, Mutirão de Saúde Ocular",
     "diretoria": "DRCAA",
     "tipo": "INDIRETA",
     "beneficiario": "Associação Piauiense Desenvolver – APD",
@@ -1340,8 +1340,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "não foi enviada para a FMS."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "TERESINHA MEDEIROS",
@@ -1501,7 +1501,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "No Conselho Municipal de Saúde de Teresina para análise da Habilitação da Organização."
+    "observacao": "Processo está no Conselho Municipal de Saúde de Teresina desde o dia 08/09/2026 para análise da Habilitação da Organização."
   },
   {
     "vereador": "VENANCIO",
@@ -1564,8 +1564,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "não foi enviada para a FMS."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "VENANCIO",
@@ -1580,8 +1580,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "não foi enviada para a FMS."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "VENANCIO",
@@ -1596,8 +1596,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "não foi enviada para a FMS."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "VINÍCIO FERREIRA",
@@ -1644,8 +1644,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "não foi enviada para a FMS."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/09/206 para a devida inserção do Plano de Trabalho no SECIEPI em obediência à IN N° 5/2026 do TCE. Plano de Trabalho inserido. Processo está na DPLAN para emissão de parecer de conformidade."
   },
   {
     "vereador": "ZÉ NETO",
