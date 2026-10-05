@@ -140,8 +140,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação. Processo está na DPLAN desde *07/05/2026* aguardando alteração da Clínica Batista"
+    "situacao": "Impedimento Técnico",
+    "observacao": "Em 05/10/2026 enviado para SEMPLAN com impedimento técnico"
   },
   {
     "vereador": "BRUNO VILARINHO",
@@ -156,8 +156,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação. Processo está na DPLAN desde *07/05/2026* aguardando alteração da Clínica Batista"
+    "situacao": "Impedimento Técnico",
+    "observacao": "Em 05/10/2026 enviado para SEMPLAN com impedimento técnico"
   },
   {
     "vereador": "CAPITÃO ROBERVAL QUEIROZ",
@@ -226,7 +226,7 @@
   {
     "vereador": "DANIEL CARVALHO",
     "ano": 2026,
-    "processo": "00046.009412/2025-81",
+    "processo": "em",
     "emenda": "12/2026",
     "projeto": "Incremento temporário MAC para Ações Qualitativas por Estabelecimentos Contratualizados/Conveniados. Projeto Visão Infantil e Saúde Integral: Diagnóstico Oftalmológico e Avaliações Multiprofissionais com Entrega de Óculos em Teresina/PI",
     "diretoria": "DAB",
@@ -236,8 +236,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
-    "observacao": "Em 02/10/2026 enviado para SEPLAG para validação."
+    "situacao": "validada",
+    "observacao": "Em 05/10/2026 enviada para GISAB para confirmar ou retificar parecer técnico e para a DAB para indicar GESTOR."
   },
   {
     "vereador": "DEOLINDO MOURA",
@@ -317,7 +317,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Em 02/10/2026 enviado para SEPLAG para validação."
+    "observacao": "Em 05/10/2026 enviada para GISAB para confirmar ou retificar parecer técnico e para a DAB para indicar GESTOR."
   },
   {
     "vereador": "EDUARDO DRAGA ALANA",
@@ -396,8 +396,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação. Processo está na DPLAN desde *09/05/2026* aguardando alteração da Clínica Batista"
+    "situacao": "Impedimento Técnico",
+    "observacao": "Em 05/10/2026 enviado para SEMPLAN com impedimento técnico."
   },
   {
     "vereador": "ELZUILA CALISTO",
@@ -524,8 +524,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação. Processo está na DPLAN desde *09/05/2026* aguardando alteração da Clínica Batista"
+    "situacao": "Impedimento Técnico",
+    "observacao": "Em 05/10/2026 enviado para SEMPLAN com impedimento técnico."
   },
   {
     "vereador": "EVANDRO HIDD",
@@ -605,7 +605,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Validada",
-    "observacao": "Em 02/10/2026 foi enviado para a DAF para empenho e solicitação de cota orçamentária. Termo de Fomento foi assinado em 29/09/2026 e extrato publicado em 01/10/2026."
+    "observacao": "Em 05/10/2026 foi enviado para Ao NUGC para adastramento do Termo de Fomento nº 01/2026."
   },
   {
     "vereador": "FERNANDA GOMES",
@@ -636,8 +636,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação. Processo está na DPLAN desde *07/05/2026* aguardando alteração da Clínica Batista"
+    "situacao": "Impedimento Técnico",
+    "observacao": "Em 05/10/2026 enviado para SEMPLAN com impedimento técnico."
   },
   {
     "vereador": "FERNANDO LIMA",
