@@ -93,7 +93,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em execução",
-    "observacao": "Processo da licitação: 00045.023247/2026-33 em 01/10/2026 AVISO DE LICITAÇÃO. DIRETORIA DE COMPRAS PÚBLICAS foi publicado no Diário Oficial do Município. Processo de Licitação: 00045.056673/2025-22 ASSINATURA DA ATA DE REGISTRO DE PREÇOS Nº 00069/2026 - PREGÃO ELETRÔNICO Nº 78/2026 enviado por e-mail aviso para empresas em 02/10/2026.  E CONTRATO ADMINISTRATIVO Nº 316/2026 foi enviado para apostilamento em 24/09/2026."
+    "observacao": "Processo da licitação: 00045.023247/2026-33 em 01/10/2026 AVISO DE LICITAÇÃO. DIRETORIA DE COMPRAS PÚBLICAS foi publicado no Diário Oficial do Município. Processo de Licitação: 00045.056673/2025-22 ASSINATURA DA ATA DE REGISTRO DE PREÇOS Nº 00069/2026 - PREGÃO ELETRÔNICO Nº 78/2026 enviado por e-mail aviso para empresas em 02/10/2026.  E CONTRATO ADMINISTRATIVO Nº 316/2026 foi enviado para apostilamento em 24/09/2026. Processo está no Núcleo de Contratos."
   },
   {
     "vereador": "BRUNO VILARINHO",
@@ -316,7 +316,7 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
+    "situacao": "validada",
     "observacao": "Em 05/10/2026 enviada para GISAB para confirmar ou retificar parecer técnico e para a DAB para indicar GESTOR."
   },
   {
@@ -1068,7 +1068,7 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
+    "situacao": "validada",
     "observacao": "Em 02/10/2026 enviado para SEPLAG para validação."
   },
   {
@@ -1244,7 +1244,7 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
+    "situacao": "validada",
     "observacao": "LICITAÇÕES FINALIZARAM, ambulâncias (00045.023515/2026-72- quisição de 04 Unidade Móvel de Saúde para o SAMU: PE 82/2026,Contraro 490/2026 foi assinado em 30/09/2026, enviado ofício para publicação.), monitores (00045.021398/2026-98- aquisição de 04 monitores cardíacos para o SAMU: contrato 443/2026 assinado). Vereador precisa se manifestação sobre a redução do valor total das emendas"
   },
   {
@@ -1260,7 +1260,7 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
+    "situacao": "validada",
     "observacao": "Está na DPLAN para fazer Plano de trabalho em conjunto com área técnica. Vereador precisa se manifestação sobre a redução do valor total das emendas. Segundo SEMPLAN vereador precisa liberar para análise. NO MOMENTO NÃO É POSSÍVEL PREENCHER O SECIEPI"
   },
   {
@@ -1276,7 +1276,7 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
+    "situacao": "validada",
     "observacao": "Em licitação, processo: 00045.056673/2025-22(Ata de Registro de Preços Nº 00069/2026 ENVIADA POR E-MAIL PARA EMPRESAS EM 02/10/2026). Vereador precisa se manifestação sobre a redução do valor total das emendas"
   },
   {
@@ -1500,7 +1500,7 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
+    "situacao": "validada",
     "observacao": "Em 02/10/2026 enviado para SEPLAG para validação."
   },
   {
