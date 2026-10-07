@@ -601,11 +601,11 @@
     "tipo": "INDIRETA",
     "beneficiario": "Clínica Batista Peggy Pemble",
     "valor": 711325.0,
-    "valorEmpenhado": 0.0,
-    "valorPago": 0.0,
-    "percentualPago": 0,
-    "situacao": "Validada",
-    "observacao": "EM 06/10/2026 FOI ENVIADO PARA ORC-SEPLAG-SEMPLAN PARA LIBERAÇÃO DE COTA ORÇAMENTÁRIA."
+    "valorEmpenhado": 711325.0,
+    "valorPago": 284530.0,
+    "percentualPago": 40.0,
+    "situacao": "Em execução",
+    "observacao": "Pagamento realizado em 07/10/2026"
   },
   {
     "vereador": "FERNANDA GOMES",
@@ -960,7 +960,7 @@
     "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
   },
   {
-    "vereador": "Em processo de licitação (00045.027890/2026-93 e 00045.044858/2026-88- ATA VAN CTR). Em 05/10/2026 GEDCP-DCP-FMS enviou para GAH para a necessidade de atendimento integral às providências determinadas pela AJU indispensável à autorização final da adesão e à celebração do contrato..",
+    "vereador": "LEONIDAS JÚNIOR",
     "ano": 2026,
     "processo": "00046.009548/2025-95",
     "emenda": "2/2026",
