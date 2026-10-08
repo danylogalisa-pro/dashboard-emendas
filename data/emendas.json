@@ -77,7 +77,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação. Informo que o Plano no sistema SECIEPI diverge do  Cadastro Anexo CADASTRO EP 012026 - ALUISIO"
+    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação. Informo que o Plano no sistema SECIEPI diverge do  Cadastro Anexo CADASTRO EP 012026 - ALUISIO"
   },
   {
     "vereador": "ANA FIDELIS",
@@ -221,7 +221,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
   },
   {
     "vereador": "DANIEL CARVALHO",
@@ -285,7 +285,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Está na SEMPLAN",
-    "observacao": "Em *21/09/2026* Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "observacao": "Em *21/09/2026* Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
   },
   {
     "vereador": "EDILBERTO BORGES",
@@ -333,7 +333,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
   },
   {
     "vereador": "EDUARDO DRAGA ALANA",
@@ -349,7 +349,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
   },
   {
     "vereador": "EDUARDO DRAGA ALANA",
@@ -365,7 +365,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
   },
   {
     "vereador": "ELZUILA CALISTO",
@@ -429,7 +429,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
   },
   {
     "vereador": "ENZO SAMUEL",
@@ -493,7 +493,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
   },
   {
     "vereador": "ENZO SAMUEL",
@@ -509,7 +509,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
   },
   {
     "vereador": "ENZO SAMUEL",
@@ -653,7 +653,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
   },
   {
     "vereador": "GUSTAVO CARVALHO",
@@ -680,12 +680,12 @@
     "diretoria": "DRCAA",
     "tipo": "INDIRETA",
     "beneficiario": "Associação Piauiense Desenvolver – APD",
-    "valor": 1507000.0,
+    "valor": 1168000.0,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "situacao": "Em validação",
+    "observacao": "Foi enviado em 08/10/2026 para a FMS. Está em amálise de conformidade na DPLAN."
   },
   {
     "vereador": "ISMAEL SILVA",
@@ -717,7 +717,7 @@
     "valorPago": 344000.0,
     "percentualPago": 100.0,
     "situacao": "Finalizada, executada",
-    "observacao": "Prestação de Contas Final no proceso: 00045.076723/2025-29. Está na CGM desde 14/05/2026."
+    "observacao": "Prestação de Contas Final no processo: 00045.076723/2025-29. Está na CGM desde 14/05/2026."
   },
   {
     "vereador": "ISMAEL SILVA",
@@ -749,7 +749,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
   },
   {
     "vereador": "ISMAEL SILVA",
@@ -845,7 +845,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
   },
   {
     "vereador": "JOAQUIM CALDAS",
@@ -893,23 +893,23 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
   },
   {
     "vereador": "JOAQUIM CALDAS",
     "ano": 2026,
     "processo": "00046.009532/2025-42",
     "emenda": "5/2026",
-    "projeto": "Implementação de Ações de Educação Permanente no âmbito da assistência à saúde da FMS",
+    "projeto": "Realização de multirões de exames para redução de fila de espera de regulação pela FMS: Endoscopia, Colonoscopia, Ultrassonografia e Ecocardiografia t",
     "diretoria": "DAE",
     "tipo": "INDIRETA",
-    "beneficiario": "Instituto de prevenção saúde da mulher",
+    "beneficiario": "INSTITUTO DE PREVENCAO A SAUDE DA MULHER",
     "valor": 757000.0,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "situacao": "Em validação",
+    "observacao": "Em 08/10/2026 foi enviado para FMS para análise. Está na DPLAN para análise de conformidade."
   },
   {
     "vereador": "JUCA ALVES",
@@ -932,16 +932,16 @@
     "ano": 2026,
     "processo": "00046.009542/2025-63",
     "emenda": "5/2026",
-    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro. Projeto Visão Infantil e Saúde Integral: Diagnóstico Oftalmológico e Avaliações Multiprofissionais com Entrega de Óculos em Teresina/PI ZONA SUL.",
+    "projeto": "Realização de multirões de exames para redução de fila de espera de regulação pela FMS: Endoscopia, Colonoscopia, Ultrassonografia e Ecocardiografia t. PROJETO MULHER + SAÚDE : Mamografia Itinerante em TERESINA -PI Diagnóstico precoce, vida preservada",
     "diretoria": "DAB",
     "tipo": "INDIRETA",
-    "beneficiario": "Clínica Batista Peggy Pemble",
+    "beneficiario": "INSTITUTO DE PREVENCAO A SAUDE DA MULHER",
     "valor": 1168000.0,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Impedimento Técnico",
-    "observacao": "Impedimento de Ordem Técnica. Ofício enviado pela SEMPLAN em 08/08/2026."
+    "situacao": "Em validação",
+    "observacao": "Em 08/10/2026 foi enviado para FMS para análise. Está na DPLAN para análise de conformidade."
   },
   {
     "vereador": "LEONIDAS JÚNIOR",
@@ -957,7 +957,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
   },
   {
     "vereador": "LEONIDAS JÚNIOR",
@@ -973,7 +973,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
   },
   {
     "vereador": "LEONIDAS JÚNIOR",
@@ -1325,23 +1325,23 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
   },
   {
     "vereador": "SAMUEL ALENCAR",
     "ano": 2026,
     "processo": "00046.009603/2025-65",
     "emenda": "6/2026",
-    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro, Mutirão de Saúde Ocular",
+    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro,. Projeto Mutirão da Visão: Um olhar para o futuro – Zona Sudeste. O Mutirão do Olho Diabético constitui iniciativa de caráter técnico, assistencial e humanitário voltada à promoção da saúde ocular, prevenção da cegueira evitável, identificação precoce, diagnóstico e tratamento das principais doenças oftalmológicas de maior prevalência e impacto funcional e social, com ênfase na patologia retinopatia diabética.",
     "diretoria": "DRCAA",
     "tipo": "INDIRETA",
     "beneficiario": "Associação Piauiense Desenvolver – APD",
-    "valor": 1507000.0,
+    "valor": 1168000.0,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "situacao": "Em validação",
+    "observacao": "Foi enviado em 08/10/2026 para a FMS. Está em amálise de conformidade na DPLAN."
   },
   {
     "vereador": "TERESINHA MEDEIROS",
@@ -1565,7 +1565,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
   },
   {
     "vereador": "VENANCIO",
@@ -1581,7 +1581,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
   },
   {
     "vereador": "VENANCIO",
@@ -1597,7 +1597,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
   },
   {
     "vereador": "VINÍCIO FERREIRA",
@@ -1645,22 +1645,22 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Proceso devolvido para a SEMPLAN conforme orientação."
+    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
   },
   {
     "vereador": "ZÉ NETO",
     "ano": 2026,
     "processo": "00046.009629/2025-42",
     "emenda": "1/2026",
-    "projeto": "Realização de multirões de exames para redução de fila de espera de regulação pela FMS: Endoscopia, Colonoscopia, Ultrassonografia e Ecocardiografia t",
+    "projeto": "Realização de multirões de exames para redução de fila de espera de regulação pela FMS: Endoscopia, Colonoscopia, Ultrassonografia e Ecocardiografia t. Mulher + Saúde Teresina. Ampliar o acesso ao diagnóstico precoce do câncer de mama e do colo do útero para 1.000 mulheres em situação de vulnerabilidade socioeconômica, residentes nos bairros Portal da Alegria, Deus Provera e Parque Brasil, em Teresina/PI, por meio de ação itinerante de rastreamento oncológico com unidade móvel de mamografia digital, garantindo encaminhamento nominal e busca ativa dos casos suspeitos na rede SUS.",
     "diretoria": "DRCAA",
-    "tipo": "DIRETA",
-    "beneficiario": "FMS",
-    "valor": 1514000.0,
+    "tipo": "INDIRETA",
+    "beneficiario": "INSTITUTO DE PREVENCAO A SAUDE DA MULHER",
+    "valor": 1168000.0,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Impedimento Técnico",
-    "observacao": "Foi enviado Ofício para o vereador em 16/06/2026."
+    "situacao": "Em validação",
+    "observacao": "00046.009629/2025-42"
   }
 ]
