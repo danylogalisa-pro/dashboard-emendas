@@ -344,12 +344,12 @@
     "diretoria": "DAB",
     "tipo": "INDIRETA",
     "beneficiario": "Comunidade Terapêutica Hebron",
-    "valor": 1513000.0,
+    "valor": 1168000.0,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
+    "situacao": "Em validação",
+    "observacao": "Em 22/10/2026 foi enviado para a FMS"
   },
   {
     "vereador": "CARPEJANNE GOMES",
@@ -749,7 +749,7 @@
     "valorPago": 500000.0,
     "percentualPago": 100.0,
     "situacao": "Em execução",
-    "observacao": "Emenda paga em sua totalidade. 2ª Parcela paga em 08/09/2026. Aguardando Prestação de Contas 1 (00045.020196/2026-57)  Ofício Nº 7861/2026 - CMA-DPLAN-FMS enviado em 13/10/2026 para o Instituto Rizo, até o dia 20/10/2026 não houve resposta. Prestação de Cotas 2: 00045.038205/2026-75: Decisão Administrativa Nº 3015, DE 03 DE setembro DE 2026 e Ofício Nº 7861/2026 - CMA-DPLAN-FMS anexados ao processo, até dia 20/10/2026 não houve resposta."
+    "observacao": "Emenda paga em sua totalidade. 2ª Parcela paga em 08/09/2026. Aguardando Prestação de Contas 1 (00045.020196/2026-57)  Ofício Nº 7861/2026 - CMA-DPLAN-FMS enviado em 13/10/2026 para o Instituto Rizo, até o dia 22/10/2026 não houve resposta. Prestação de Cotas 2: 00045.038205/2026-75: Decisão Administrativa Nº 3015, DE 03 DE setembro DE 2026 e Ofício Nº 7861/2026 - CMA-DPLAN-FMS anexados ao processo, até dia 22/10/2026 não houve resposta."
   },
   {
     "vereador": "ENZO SAMUEL",
@@ -909,7 +909,7 @@
     "valorPago": 500000.0,
     "percentualPago": 100.0,
     "situacao": "Em execução",
-    "observacao": "Pago em sua totalidade, aguardando prestação de contas. Prestação de Contas 1: 00045.020191/2026-95 com parecer de análise financeira emitido em 28/09/2026, aguardando resposta do Instituto Rizo até 20/10/2026 não houve resposta. Prestação de Contas 2: 00045.048037/2026-03 com parecer de análise financeira emitido em 30/09/2026, aguardando resposrta do Instituto Rizo, até 20/10/2026 não houve resposta."
+    "observacao": "Pago em sua totalidade, aguardando prestação de contas. Prestação de Contas 1: 00045.020191/2026-95 com parecer de análise financeira emitido em 28/09/2026, aguardando resposta do Instituto Rizo até 22/10/2026 não houve resposta. Prestação de Contas 2: 00045.048037/2026-03 com parecer de análise financeira emitido em 30/09/2026, aguardando resposrta do Instituto Rizo, até 22/10/2026 não houve resposta."
   },
   {
     "vereador": "FERNANDA GOMES",
@@ -941,7 +941,7 @@
     "valorPago": 0.0,
     "percentualPago": 0.0,
     "situacao": "Validada",
-    "observacao": "Aguardando finalização da Emenda 6/2026 para não ocorrer sobreposição de objeto. GAB/PRES ENVIOU PROCESSO COM DECISÃO ADMINSITRATIVA QUE TRAA DA PRORROGAÇÃO PARA DRCCA, O PROCESSO ESTÁ COM GESTOR-FISCAL-DRCAA DESDE DIA 16/10/2026."
+    "observacao": "Aguardando finalização da Emenda 6/2026 para não ocorrer sobreposição de objeto. O Gabinete enviou no dia 21.10.26 para o NUGC-FMS para Adequação da vigência e do cronograma do Termo de Fomento."
   },
   {
     "vereador": "FERNANDA GOMES",
@@ -997,15 +997,15 @@
     "processo": "00046.009497/2025-17",
     "emenda": "7/2026",
     "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro. Mutirão Saúde Inclusiva – Diagnóstico e Acompanhamento Multiprofissional de Crianças e Adolescentes PCD.",
-    "diretoria": "DRCAA",
+    "diretoria": "DAB",
     "tipo": "INDIRETA",
-    "beneficiario": "Associação Viva com Esperança",
-    "valor": 1507000.0,
+    "beneficiario": "Comunidade Terapêutica Hebron",
+    "valor": 1168000.0,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
+    "situacao": "Em validação",
+    "observacao": "Processo foi recebido pela FMS em 22/10/2026"
   },
   {
     "vereador": "GUSTAVO CARVALHO",
@@ -1293,7 +1293,7 @@
     "valorPago": 610000.0,
     "percentualPago": 100.0,
     "situacao": "Em execução",
-    "observacao": "Processo da 3 prestação de contas 00046.002663/2024-44 está no GAB-PRES-FMS para emissão de DECISÃO ADMINISTRATIVA, FOI ENVIADO PARA A CLINICA BATISTA EM 13/10/2026 e AGUARDANDO MANIFESTAÇÃO. PRESTAÇÃO DE CONTAS 1 (00045.016593/2026-47) APÓS ANALISE DA CGM FOI APROVADO SEM RESSALVAS, APONTAMENTOS INDICADOS PELA CGM FOI ENVIADOS PARA A CLÍNICA BATISTA MAS ATÉ O MOMENTO NÃO FOI CONSTATADA RESPOSTA.(20/10/2026). PRESTAÇÃO DE CONTAS 2: 00045.034987/2026-49 POSSUI ANÁLISE FINANCEIRA E FOI ENVIADA PARA O GAB-PRES-FMS PARA DECIDIR SOBRE HOMOLOGAÇÃO EM 08/10/2026 E ATÉ O MOMENTO NÃO HOUVE RESPOTAS."
+    "observacao": "Processo da 3 prestação de contas 00046.002663/2024-44 está no GAB-PRES-FMS para emissão de DECISÃO ADMINISTRATIVA, FOI ENVIADO PARA A CLINICA BATISTA EM 13/10/2026 e AGUARDANDO MANIFESTAÇÃO. PRESTAÇÃO DE CONTAS 1 (00045.016593/2026-47) Clínica Batista Peggy Pemble apresentou resposta aos itens apontados no Ofício de Notificação no dia 19.10.26 PRESTAÇÃO DE CONTAS 2: 00045.034987/2026-49 POSSUI ANÁLISE FINANCEIRA E FOI ENVIADA PARA O GAB-PRES-FMS PARA DECIDIR SOBRE HOMOLOGAÇÃO EM 08/10/2026 E ATÉ O MOMENTO NÃO HOUVE RESPOTAS."
   },
   {
     "vereador": "JOAQUIM CALDAS",
@@ -1388,8 +1388,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
-    "observacao": "Em 08/10/2026 foi enviado para FMS para análise. Está na DPLAN para análise de conformidade."
+    "situacao": "Impedimento Técnico",
+    "observacao": "Em 22/10/2026 foi enviado para a SEMPLAN com impedimento. Vereador está ciente."
   },
   {
     "vereador": "JUCA ALVES",
@@ -1581,7 +1581,7 @@
     "valorPago": 1334000.0,
     "percentualPago": 100.0,
     "situacao": "Em execução",
-    "observacao": "Pago em sua totalidade. Aguardando 3ª Prestação de Contas. Prestação de contas 1: 00045.016592/2026-74 (em 18/09/2026 CGM fez ANÁLISE FINANCEIRA E CONTÁBIL DA PRESTAÇÃO DE CONTAS, Parecer financeiro favorável, sem ressalvas), Prestação de Contas 2: 00045.034980/2026-44 (em 22/09/2026 CGM fez ANÁLISE FINANCEIRA E CONTÁBIL DA PRESTAÇÃO DE CONTAS, Parecer financeiro favorável, sem ressalvas). TERMO DE FOMENTO FOI ADITIVADO E ESTÁ VÁLIDO ATÉ 28/10/2026. FOI EMITIDA DECISÃO ADMINSITRATIVA Nº 3454, DE 05 DE OUTUBRO DE 2026 NO PROCESSO00045.057142/2026-63"
+    "observacao": "Pago em sua totalidade. Aguardando 3ª Prestação de Contas. Prestação de contas 1: 00045.016592/2026-74 Clínica Batista Peggy Pemble apresentou resposta aos itens apontados no Ofício de Notificação no dia 19.10.26, Prestação de Contas 2: 00045.034980/2026-44 Clínica Batista Peggy Pemble apresentou resposta aos itens apontados no Ofício de Notificação no dia 15.10.26. TERMO DE FOMENTO FOI ADITIVADO E ESTÁ VÁLIDO ATÉ 28/10/2026. FOI EMITIDA DECISÃO ADMINSITRATIVA Nº 3454, DE 05 DE OUTUBRO DE 2026 NO PROCESSO00045.057142/2026-63"
   },
   {
     "vereador": "LUIS ANDRÉ",
@@ -2205,7 +2205,7 @@
     "valorPago": 270000.0,
     "percentualPago": 50.0,
     "situacao": "Em execução",
-    "observacao": "Processo: 00046.002518/2024-79 com minuta do termo aditivo ENVIADO PARA AJU EM 20/10/2026. Prestação de Contas 1 (00045.020529/2026-87) Ofício Nº 7900/2026 - CMA-DPLAN-FMS enviado para CGM  em 14/10/2026 para emissão de parecer financeiro. Prestação de Contas 2( 00045.037033/2026-97) Processo enviado para CGM em 14/10/2026 enviado para CGM para emissão de parecer financeiro."
+    "observacao": "Processo: 00046.002518/2024-79 com minuta do termo aditivo ENVIADO PARA AJU EM 20/10/2026. Prestação de Contas 1 (00045.020529/2026-87)  CGM  em 22/10/2026 emitiu parecer financeiro. Prestação de Contas 2( 00045.037033/2026-97) A CGM em 22/10/2026 enviado para CGM para emissão de parecer financeiro."
   },
   {
     "vereador": "VENANCIO",
@@ -2221,7 +2221,7 @@
     "valorPago": 0.0,
     "percentualPago": 0.0,
     "situacao": "Validada",
-    "observacao": "Aguardando finalização da Emenda nº 7/2025 para que não ocorra sobreposição de objetos. Processo desde 30/09/2026 na AJU para apreciação jurídica, com minuta de termo aditivo."
+    "observacao": "Aguardando finalização da Emenda nº 7/2025 para que não ocorra sobreposição de objetos. Parecer Jurídico da AJU sobre a prorrogação do termo aditivo 22.10.26"
   },
   {
     "vereador": "VENANCIO",
@@ -2244,32 +2244,32 @@
     "ano": 2026,
     "processo": "00046.009615/2025-32",
     "emenda": "2/2026",
-    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro. SAÚDE NOS BAIRROS",
+    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro. Projeto Mais Visão – Zona Norte.Execução do Projeto Mais Visão – Zona Norte, em Teresina–PI, voltado à ampliação do acesso à assistência oftalmológica, à prevenção da cegueira evitável e à correção de alterações visuais, com atendimento de até 250 beneficiários diretos. Serão ofertadas 250 consultas médicas especializadas em oftalmologia e 700 exames, sendo 250 mapeamentos de retina, 250 paquimetrias ultrassônicas e 200 tonometrias, além do fornecimento gratuito de 135 óculos de grau completos aos beneficiários com prescrição médica e enquadramento nos critérios de elegibilidade. A ação contemplará mobilização comunitária, acolhimento, cadastro, triagem, educação em saúde ocular e encaminhamento dos casos que necessitarem de continuidade assistencial na rede pública.",
     "diretoria": "DRCAA",
     "tipo": "INDIRETA",
     "beneficiario": "Associação Piauiense Desenvolver – APD",
-    "valor": 502000.0,
+    "valor": 267000.0,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
+    "situacao": "Em validação",
+    "observacao": "Enviado para FMS em 22/10/2026."
   },
   {
     "vereador": "VENANCIO",
     "ano": 2026,
     "processo": "00046.009621/2025-64",
     "emenda": "8/2026",
-    "projeto": "Projeto Trajetórias Vivas",
+    "projeto": "Realização de multirões de exames para redução de fila de espera de regulação pela FMS: Endoscopia, Colonoscopia, Ultrassonografia e Ecocardiografia . Projeto Mais Visão – Zona Sul. Execução do Projeto Mais Visão – Zona Sul, em Teresina–PI, voltado à ampliação do acesso à assistência oftalmológica, à prevenção da cegueira evitável e à correção de alterações visuais, com atendimento de até 350 beneficiários diretos. Serão ofertadas 350 consultas médicas especializadas em oftalmologia e 980 exames, sendo 350 mapeamentos de retina, 350 paquimetrias ultrassônicas e 280 tonometrias, além do fornecimento gratuito de 185 óculos de grau completos aos beneficiários com prescrição médica e enquadramento nos critérios de elegibilidade. A ação contemplará mobilização comunitária, acolhimento, cadastro, triagem, educação em saúde ocular e encaminhamento dos casos que necessitarem de continuidade assistencial na rede pública.",
     "diretoria": "DRCAA",
     "tipo": "INDIRETA",
-    "beneficiario": "Associação Brasileira de Pesquisa e Tratamentos Multidisciplinares da Paralisia Cerebral - Instituto Rizo Movement",
-    "valor": 504000.0,
+    "beneficiario": "Associação Piauiense Desenvolver – APD",
+    "valor": 400000.0,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
+    "situacao": "Em validação",
+    "observacao": "Em 22/10/2026 enviado para FMS"
   },
   {
     "vereador": "VENANCIO",
