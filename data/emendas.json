@@ -2253,7 +2253,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Enviado para FMS em 22/10/2026. Está na DPLAN para análise de conformidade"
+    "observacao": "Enviado para FMS em 22/10/2026. Enviado para DRCAA em 23/10/2026 para emissão de parecer técnico."
   },
   {
     "vereador": "VENANCIO",
@@ -2269,7 +2269,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Impedimento Técnico",
-    "observacao": "Em 23/10/2026 enviado para SEMPLAN"
+    "observacao": "Enviado para vereador em 23/10/2026"
   },
   {
     "vereador": "VENANCIO",
