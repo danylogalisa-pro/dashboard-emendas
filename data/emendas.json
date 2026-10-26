@@ -461,7 +461,7 @@
     "valorPago": 332750.0,
     "percentualPago": 50.0,
     "situacao": "Em execução",
-    "observacao": "1. Processo da Emenda: 00046.002730/2024-78. EM 20/10/2026 Foi enviado para AJU Minuta de aditivo.\n 2. Prestação de Contas 01/2026 (00045.020436/2026-76) em 14/10/2026 enviado para Controladoria Geral do Município de Teresina para parecer financeiro.\n3.  Prestação de contas 2: 00045.038554/2026-61 em 22/10/2026 enviado para Controladoria Geral do Município de Teresina emitiu parecer financeiro: “Esta Controladoria-Geral do Município emite parecer financeiro favorável, sem ressalvas, à Prestação de Contas Parcial II do Termo de Fomento nº 12/2025,”"
+    "observacao": "1. Processo da Emenda: 00046.002730/2024-78. EM 22/10/2026 O parecer jurídico conclui pela viabilidade de prorrogar o Termo de Fomento nº 12/2025 com o Instituto Rizo Movement por três meses (de 01/11/2026 a 31/01/2027) para a continuidade do Projeto Acolher.\nA prorrogação ocorre sem novos aportes financeiros, dependendo apenas do ajuste de inconformidades, como a divergência do valor global (de R$ 667.700,00 para R$ 665.500,00) e a padronização das referências ao prazo.\nA aprovação final e a liberação de recursos ficam condicionadas à prestação e aprovação das contas parciais, além do cumprimento integral dos requisitos administrativos antes do fim da vigência.\n 2. Prestação de Contas 01/2026 (00045.020436/2026-76) em 26/10/2026 Foi enviado Parecer Financeito para Insituto Rizo: \" O processo apresenta pendências relativas à ausência do extrato bancário da conta de aplicação financeira e dos relatórios financeiros da vigência — já que apenas os dados de março, mês anterior ao instrumento, foram anexados —, além da falta de identificação do número da prestação de contas parcial correspondente.\"\n3.  Prestação de contas 2: 00045.038554/2026-61 em 22/10/2026 enviado para Controladoria Geral do Município de Teresina emitiu parecer financeiro: “Esta Controladoria-Geral do Município emite parecer financeiro favorável, sem ressalvas, à Prestação de Contas Parcial II do Termo de Fomento nº 12/2025,”"
   },
   {
     "vereador": "DEOLINDO MOURA",
@@ -477,7 +477,7 @@
     "valorPago": 0.0,
     "percentualPago": 0.0,
     "situacao": "Validada",
-    "observacao": "Aguardando finalização da Emenda nº 8/2025 para que não ocorra sobreposição de objetos. Está na AJU desde 30/09/2026 para apreciação jurídica da minuta de aditivo."
+    "observacao": "Aguardando finalização da Emenda nº 8/2025 para que não ocorra sobreposição de objetos. Em 26/10/2026 foi emitido parecer jurídico: \"O parecer jurídico conclui pela possibilidade jurídica condicionada da prorrogação do Termo de Fomento nº 11/2025 com o Instituto Rizo Movement por até 7 meses (de 01/11/2026 a 31/05/2027).A medida deve ocorrer preferencialmente de ofício, em razão do atraso da administração no repasse dos recursos, sem implicar acréscimo de valor ao montante original de R$ 665.500,00.\nA aprovação depende do cumprimento de condicionantes como a certificação do período exato do atraso, comprovação de ausência de duplicidade com o Termo nº 12/2025, regularidade documental da OSC e assinatura do Termo de Prorrogação Simplificada antes de 31/10/2026.\""
   },
   {
     "vereador": "DEOLINDO MOURA",
@@ -765,7 +765,7 @@
     "valorPago": 0.0,
     "percentualPago": 0.0,
     "situacao": "Validada",
-    "observacao": "Aguardando finalização da Emenda 00046.002699/2024-42 para que não ocorra sobreposição do objeto. ENVIADO ADITIVO EM 20/10/2026 PARA O GAB-PRES-FMS"
+    "observacao": "Aguardando finalização da Emenda 00046.002699/2024-42 para que não ocorra sobreposição do objeto. ENVIADO ADITIVO EM 20/10/2026 PARA O GAB-PRES-FMS. DAF ENVIOU DESPACHO EM 22/10/2026 PARA GAB-PRES:  A Diretoria de Finanças informou que não houve repasse financeiro ao Instituto Rizo Movement pelo Termo de Fomento nº 06/2025, embora a Nota de Empenho nº 6494/2025 siga válida e inscrita em Restos a Pagar Não Processados. Essa inscrição garante a cobertura orçamentária, mas a efetiva disponibilidade financeira depende da liberação de recursos do Tesouro pela SEMF-PMT e da deliberação da Secretaria de Planejamento para a execução no exercício de 2027.\""
   },
   {
     "vereador": "ENZO SAMUEL",
@@ -941,7 +941,7 @@
     "valorPago": 0.0,
     "percentualPago": 0.0,
     "situacao": "Validada",
-    "observacao": "Aguardando finalização da Emenda 6/2026 para não ocorrer sobreposição de objeto. O Gabinete enviou no dia 21.10.26 para o NUGC-FMS para Adequação da vigência e do cronograma do Termo de Fomento."
+    "observacao": "Aguardando finalização da Emenda 6/2026 para não ocorrer sobreposição de objeto. Em 26/10/2026 Núcleo de Contratos está fazendo termo aditivo."
   },
   {
     "vereador": "FERNANDA GOMES",
@@ -1581,7 +1581,7 @@
     "valorPago": 1334000.0,
     "percentualPago": 100.0,
     "situacao": "Em execução",
-    "observacao": "Pago em sua totalidade. Aguardando 3ª Prestação de Contas. Prestação de contas 1: 00045.016592/2026-74 Clínica Batista Peggy Pemble apresentou resposta aos itens apontados no Ofício de Notificação no dia 19.10.26, Prestação de Contas 2: 00045.034980/2026-44 Clínica Batista Peggy Pemble apresentou resposta aos itens apontados no Ofício de Notificação no dia 15.10.26. TERMO DE FOMENTO FOI ADITIVADO E ESTÁ VÁLIDO ATÉ 28/10/2026. FOI EMITIDA DECISÃO ADMINSITRATIVA Nº 3454, DE 05 DE OUTUBRO DE 2026 NO PROCESSO00045.057142/2026-63"
+    "observacao": "Pago em sua totalidade. Aguardando 3ª Prestação de Contas. Prestação de contas 1: 00045.016592/2026-74 Clínica Batista Peggy Pemble apresentou resposta aos itens apontados no Ofício de Notificação no dia 19.10.26, Prestação de Contas 2: 00045.034980/2026-44 Clínica Batista Peggy Pemble apresentou resposta aos itens apontados no Ofício de Notificação no dia 15.10.26. TERMO DE FOMENTO FOI ADITIVADO E ESTÁ VÁLIDO ATÉ 28/10/2026. FOI EMITIDA DECISÃO ADMINSITRATIVA Nº 3454, DE 05 DE OUTUBRO DE 2026 NO PROCESSO: 00045.057142/2026-63"
   },
   {
     "vereador": "LUIS ANDRÉ",
@@ -1789,7 +1789,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Validada",
-    "observacao": "Enviado para SEMPLAN para validação."
+    "observacao": "Atesto de validação enviado para FMS em 26/10/2026"
   },
   {
     "vereador": "PETRUS EVELYN",
@@ -1821,7 +1821,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Validada",
-    "observacao": "Em licitação, processo: 00045.056673/2025-22(. Consulta ao processo em 15/10/2026 Pregão Eletrônico 90078/2026, devidamente finalizado no Sistema E-governe,  Contrato Nº 520/2026 - MEGMED LTDA assinado"
+    "observacao": "Em licitação, processo: 00045.056673/2025-22(. Consulta ao processo em 15/10/2026 Pregão Eletrônico 90078/2026, devidamente finalizado no Sistema E-governe,  Contrato Nº 520/2026 - MEGMED LTDA assinado. Ofício de Publicação de apostilamento enviado para GAB-PRES"
   },
   {
     "vereador": "RENATO BERGER",
@@ -2205,7 +2205,7 @@
     "valorPago": 270000.0,
     "percentualPago": 50.0,
     "situacao": "Em execução",
-    "observacao": "1. Processo: 00046.002518/2024-79 Em 23/10/2026 o GAB-PRES-FMS emitiu decisão administrativa;\nDeterminando o encaminhamento urgente dos autos a quatro setores para sanar pendências jurídicas antes do fim da vigência em 31/10/2026: a DCP/NUGC deve substituir a minuta pelo Termo de Prorrogação Simplificada e adequar o instrumento; a CMA precisa corrigir o Plano de Trabalho, esclarecer parcerias e juntar certidões da OSC; a DAF deve confirmar saldo orçamentário de R$ 270 mil; e o setor de contas deve priorizar a análise parcial. Após cumpridas as condicionantes, o processo retorna à Presidência da FMS para assinatura.\n2.  Prestação de Contas 1 (00045.020529/2026-87) CGM em 22/10/2026 emitiu parecer financeiro: “Parecer financeiro favorável sem ressalvas referente à prestação de contas parcial I do Termo de Fomento nº 07/2025, por evidenciarem falhas de natureza formal que não ocasionaram dano ao erário. “ \n3.Prestação de Contas 2( 00045.037033//2026-97) A CGM em 22/10/2026 emitiu parecer financeiro; “Processo para a Fundação Municipal de Saúde e recomenda que o INSTITUTO RIZO MOVEMENT seja notificado para apresentar os extratos bancários da conta aplicação supramencionada.”"
+    "observacao": "1. Processo: 00046.002518/2024-79 Em 23/10/2026 o GAB-PRES-FMS emitiu decisão administrativa;\nDeterminando o encaminhamento urgente dos autos a quatro setores para sanar pendências jurídicas antes do fim da vigência em 31/10/2026: a DCP/NUGC deve substituir a minuta pelo Termo de Prorrogação Simplificada e adequar o instrumento; a CMA precisa corrigir o Plano de Trabalho, esclarecer parcerias e juntar certidões da OSC; a DAF deve confirmar saldo orçamentário de R$ 270 mil; e o setor de contas deve priorizar a análise parcial. Após cumpridas as condicionantes, o processo retorna à Presidência da FMS para assinatura.\n2.  Prestação de Contas 1 (00045.020529/2026-87) Em 26/10/2026 CMA devolveu processo para CGM com o que foi solicitado .\n3.Prestação de Contas 2( 00045.037033//2026-97)  Em 26/10/2026 CMA devolveu processo para CGM com o que foi solicirado ."
   },
   {
     "vereador": "VENANCIO",
@@ -2237,7 +2237,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Em 22/10/2026 enviado para a FMS. Está na DPLAN para análise de conformidade."
+    "observacao": "Em 26/10/2026 enviado para DRCAA para emissão de parecer técnico."
   },
   {
     "vereador": "VENANCIO",
