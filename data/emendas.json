@@ -308,16 +308,16 @@
     "ano": 2026,
     "processo": "00046.009396/2025-28",
     "emenda": "6/2026",
-    "projeto": "Estruturação da Atenção Primária em Saúde (Equipamentos UBS). ESTRUTURACAO DA UBS SAO VICENTE",
+    "projeto": "Implementação de AÇÕES de EDUCAÇÃO permanente no âmbito da assistência à saúde da FMS. Projeto Teresina Viva",
     "diretoria": "DAB",
-    "tipo": "DIRETA",
-    "beneficiario": "FMS",
-    "valor": 1507000.0,
+    "tipo": "INDIRETA",
+    "beneficiario": "Comunidade Terapêutica Hebron",
+    "valor": 1168000.0,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Impedimento Técnico",
-    "observacao": "Impedimento de Ordem Técnica enviado ao vereador em *11/08/2026.* No SECIEPI está objeto Implementação de AÇÕES de EDUCAÇÃO permanente no âmbito da assistência à saúde da FMS destinado à COMUNIDADE TERAPEUTICA HEBRON DO ESTADO DO PIAUI contudo processo ainda não foi enviado para FMS. Última consulta em 02/10/2026."
+    "situacao": "Em validação",
+    "observacao": "Em 29/10/2026 enviado para a GAE-DAB para emissão de parecer técnico."
   },
   {
     "vereador": "CARLOS RIBEIRO",
@@ -349,7 +349,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Em 23/10/2026 foi enviado para a DAB"
+    "observacao": "Em 29/10/2026 enviado para a GAE-DAB para emissão de parecer técnico."
   },
   {
     "vereador": "CARPEJANNE GOMES",
@@ -461,7 +461,7 @@
     "valorPago": 332750.0,
     "percentualPago": 50.0,
     "situacao": "Em execução",
-    "observacao": "1. Processo da Emenda: 00046.002730/2024-78. EM 22/10/2026 O parecer jurídico conclui pela viabilidade de prorrogar o Termo de Fomento nº 12/2025 com o Instituto Rizo Movement por três meses (de 01/11/2026 a 31/01/2027) para a continuidade do Projeto Acolher.\nA prorrogação ocorre sem novos aportes financeiros, dependendo apenas do ajuste de inconformidades, como a divergência do valor global (de R$ 667.700,00 para R$ 665.500,00) e a padronização das referências ao prazo.\nA aprovação final e a liberação de recursos ficam condicionadas à prestação e aprovação das contas parciais, além do cumprimento integral dos requisitos administrativos antes do fim da vigência.\n 2. Prestação de Contas 01/2026 (00045.020436/2026-76) em 26/10/2026 Foi enviado Parecer Financeito para Insituto Rizo: \" O processo apresenta pendências relativas à ausência do extrato bancário da conta de aplicação financeira e dos relatórios financeiros da vigência — já que apenas os dados de março, mês anterior ao instrumento, foram anexados —, além da falta de identificação do número da prestação de contas parcial correspondente.\"\n3.  Prestação de contas 2: 00045.038554/2026-61 em 22/10/2026 enviado para Controladoria Geral do Município de Teresina emitiu parecer financeiro: “Esta Controladoria-Geral do Município emite parecer financeiro favorável, sem ressalvas, à Prestação de Contas Parcial II do Termo de Fomento nº 12/2025,”"
+    "observacao": "1. Processo da Emenda: 00046.002730/2024-78. TERMO DE PRORROGAÇÃO SIMPLIFICADA DE VIGÊNCIA N° 01 ENVIADO PARA SEMA EM 29/10/2026 PARA PUBLICAÇÃO.\n 2. Prestação de Contas 01/2026 (00045.020436/2026-76) em 28/10/2026 FOI FEITO PARECER FINANCEITO DA CGM:  \"Não foi encontrada nenhuma irregularidade na prestação de contas referente aos meses de abril/2026 a outubro/2026\"\n3.  Prestação de contas 2: 00045.038554/2026-61 em 22/10/2026 enviado para Controladoria Geral do Município de Teresina emitiu parecer financeiro: “Esta Controladoria-Geral do Município emite parecer financeiro favorável, sem ressalvas, à Prestação de Contas Parcial II do Termo de Fomento nº 12/2025,”"
   },
   {
     "vereador": "DEOLINDO MOURA",
@@ -477,7 +477,7 @@
     "valorPago": 0.0,
     "percentualPago": 0.0,
     "situacao": "Validada",
-    "observacao": "Aguardando finalização da Emenda nº 8/2025 para que não ocorra sobreposição de objetos. Em 26/10/2026 foi emitido parecer jurídico: \"O parecer jurídico conclui pela possibilidade jurídica condicionada da prorrogação do Termo de Fomento nº 11/2025 com o Instituto Rizo Movement por até 7 meses (de 01/11/2026 a 31/05/2027).A medida deve ocorrer preferencialmente de ofício, em razão do atraso da administração no repasse dos recursos, sem implicar acréscimo de valor ao montante original de R$ 665.500,00.\nA aprovação depende do cumprimento de condicionantes como a certificação do período exato do atraso, comprovação de ausência de duplicidade com o Termo nº 12/2025, regularidade documental da OSC e assinatura do Termo de Prorrogação Simplificada antes de 31/10/2026.\""
+    "observacao": "Aguardando finalização da Emenda nº 8/2025 para que não ocorra sobreposição de objetos. Em 28/10/2026 FOI ENVIADO Termo Aditivo DE PRORROGAÇÃO SIMPLIFICADA (17184110) PARA SEMA PARA PUBLICAÇÃO."
   },
   {
     "vereador": "DEOLINDO MOURA",
@@ -941,7 +941,7 @@
     "valorPago": 0.0,
     "percentualPago": 0.0,
     "situacao": "Validada",
-    "observacao": "Aguardando finalização da Emenda 6/2026 para não ocorrer sobreposição de objeto. Em 26/10/2026 Núcleo de Contratos está fazendo termo aditivo."
+    "observacao": "Aguardando finalização da Emenda 6/2026 para não ocorrer sobreposição de objeto. Em 28/10/2026  Termo Aditivo de Prorrogação Simplificada (17145407) ENVIADO PARA PUBLICAÇÃO."
   },
   {
     "vereador": "FERNANDA GOMES",
@@ -1005,7 +1005,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Em 23/10/2026 foi enviado para a DAB"
+    "observacao": "Em 29/10/2026 enviado para a GAE-DAB para emissão de parecer técnico."
   },
   {
     "vereador": "GUSTAVO CARVALHO",
@@ -1769,11 +1769,11 @@
     "tipo": "DIRETA",
     "beneficiario": "FMS",
     "valor": 714000.0,
-    "valorEmpenhado": 0.0,
+    "valorEmpenhado": 714000.0,
     "valorPago": 0.0,
-    "percentualPago": 0,
-    "situacao": "Validada",
-    "observacao": "LICITAÇÕES FINALIZARAM,. Solicitação de empenho realizada em 15/10/2026.Solicitação de cota orçamentária envida para ORC-SEPLAG-SEMPLAN em 23/10/2026."
+    "percentualPago": 0.0,
+    "situacao": "Em execução",
+    "observacao": "Nota de Empenho 6799/2026 (17159292) e Nota de Empenho 6800/2026 (17159424) emitidos em 27/10/2026"
   },
   {
     "vereador": "PETRUS EVELYN",
@@ -1816,12 +1816,12 @@
     "diretoria": "DAE",
     "tipo": "DIRETA",
     "beneficiario": "FMS",
-    "valor": 781882.99,
+    "valor": 404000.0,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Validada",
-    "observacao": "Em licitação, processo: 00045.056673/2025-22(. Consulta ao processo em 15/10/2026 Pregão Eletrônico 90078/2026, devidamente finalizado no Sistema E-governe,  Contrato Nº 520/2026 - MEGMED LTDA assinado. Ofício de Publicação de apostilamento enviado para GAB-PRES"
+    "situacao": "Em execução",
+    "observacao": "Em licitação, processo: 00045.056673/2025-22(. Consulta ao processo em 15/10/2026 Pregão Eletrônico 90078/2026, devidamente finalizado no Sistema E-governe,  Contrato Nº 520/2026 - MEGMED LTDA assinado. Ofício de Publicação de apostilamento enviado para SEMA."
   },
   {
     "vereador": "RENATO BERGER",
@@ -2205,7 +2205,7 @@
     "valorPago": 270000.0,
     "percentualPago": 50.0,
     "situacao": "Em execução",
-    "observacao": "1. Processo: 00046.002518/2024-79 Em 23/10/2026 o GAB-PRES-FMS emitiu decisão administrativa;\nDeterminando o encaminhamento urgente dos autos a quatro setores para sanar pendências jurídicas antes do fim da vigência em 31/10/2026: a DCP/NUGC deve substituir a minuta pelo Termo de Prorrogação Simplificada e adequar o instrumento; a CMA precisa corrigir o Plano de Trabalho, esclarecer parcerias e juntar certidões da OSC; a DAF deve confirmar saldo orçamentário de R$ 270 mil; e o setor de contas deve priorizar a análise parcial. Após cumpridas as condicionantes, o processo retorna à Presidência da FMS para assinatura.\n2.  Prestação de Contas 1 (00045.020529/2026-87) Em 26/10/2026 CMA devolveu processo para CGM com o que foi solicitado .\n3.Prestação de Contas 2( 00045.037033//2026-97)  Em 26/10/2026 CMA devolveu processo para CGM com o que foi solicirado ."
+    "observacao": "1. Processo: 00046.002518/2024-79 #Termo Aditivo DE PRORROGAÇÃO SIMPLIFICADA 01 ENVIADO PARA SEMA PARA PUBLICAÇÃO E FOI SOLICITADO O PAGAMENTO DA 2ª PARCELA DO TERMO DE FOMENTO.\n2.  Prestação de Contas 1 (00045.020529/2026-87) Em 27/10/2026 CGM EMITIU: Parecer financeiro favorável sem ressalvas referente à prestação de contas parcial I do Termo de Fomento nº 07/2025, por evidenciarem falhas de natureza formal que não ocasionaram dano ao erário.\n3.Prestação de Contas 2( 00045.037033//2026-97)  Em 27/10/2026 CGM arecer financeiro favorável sem ressalvas referente à prestação de contas parcial II do Termo de Fomento nº 07/2025, por evidenciarem falhas de natureza formal que não ocasionaram dano ao erário."
   },
   {
     "vereador": "VENANCIO",
@@ -2221,7 +2221,7 @@
     "valorPago": 0.0,
     "percentualPago": 0.0,
     "situacao": "Validada",
-    "observacao": "Aguardando finalização da Emenda nº 7/2025 para que não ocorra sobreposição de objetos.\nEm 22/10/2026 a AJU emitiu Parecer Jurídico da AJU sobre a prorrogação do termo aditivo 22.10.26:\n“parecer jurídico opina pela possibilidade condicionada de prorrogar o Termo de Fomento nº 08/2025, preferencialmente de ofício, até o limite exato do atraso nos repasses.\nPara isso, exige comprovação da dotação orçamentária, certificação do atraso e da ausência de culpa da OSC, aprovação do novo plano de trabalho e juntada do ato de suspensão.\nTambém determina a substituição da minuta pelo Termo de Prorrogação Simplificada e a formalização/publicação do ato obrigatoriamente antes de 31/10/2026.\nPor fim, recomenda verificar se não há sobreposição de despesas/metas com o Termo nº 07/2025 e ressalva a análise das demais exigências técnicas e documentais.”"
+    "observacao": "Aguardando finalização da Emenda nº 7/2025 para que não ocorra sobreposição de objetos.\nEm 29/10/2026 foi assinado Termo Aditivo de Prorrogação Simplificada (17185710)"
   },
   {
     "vereador": "VENANCIO",
