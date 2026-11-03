@@ -1069,7 +1069,7 @@
     "valorPago": 344000.0,
     "percentualPago": 100.0,
     "situacao": "Finalizada, executada",
-    "observacao": "Prestação de Contas Final no processo: 00045.076723/2025-29. Está na CGM desde 14/05/2026."
+    "observacao": "Prestação de Contas Final no processo: 00045.076723/2025-29. Em 06/10/2026 6 foi enviado e-mail para o PRISMAS com o parecer  da Controladoria Geral do Municiípio: Solicitamos o atendimento da diligência apontada no prazo de 15 (quinze) dias. Após o saneamento, os autos deverão ser encaminhados ao setor de Prestações de Contas Análise CGM (PCONT-CGM) para reanálise e manifestação conclusiva.\nSeguem os itens para serem respondidos:\nc) Ausência do extrato bancário de janeiro/2026, visto que a vigência estava prevista para encerrar neste período;\nd) descontos referentes a tarifas bancárias, entretanto, não foi apresentado documento que demonstra a efetiva devolução.\n\naté o dia 03/11/2026 não foi obtida resposta"
   },
   {
     "vereador": "ISMAEL SILVA",
@@ -1114,8 +1114,8 @@
     "beneficiario": "FMS",
     "valor": 707000.0,
     "valorEmpenhado": 706929.66,
-    "valorPago": 509377.86,
-    "percentualPago": 72.05,
+    "valorPago": 543401.82,
+    "percentualPago": 76.87,
     "situacao": "Em execução",
     "observacao": "Em execução."
   },
@@ -1340,8 +1340,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
-    "observacao": "Em 08/10/2026 foi enviado para FMS para análise. Está na DPLAN para análise de conformidade."
+    "situacao": "Impedimento Técnico",
+    "observacao": "Em 03/11/2026 foi enviado impedimento técnico. A OSC não possui CNES"
   },
   {
     "vereador": "JOAQUIM CALDAS",
@@ -2396,8 +2396,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
-    "observacao": "Em análise de conformidade"
+    "situacao": "Impedimento Técnico",
+    "observacao": "Impedimento técnico foi enviado dia 03/11/2026 a OSC não possui CNES"
   },
   {
     "vereador": "ZÉ NETO",
