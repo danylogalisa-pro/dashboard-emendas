@@ -458,10 +458,10 @@
     "beneficiario": "Associação Brasileira de Pesquisa e Tratamentos Multidisciplinares da Paralisia Cerebral - Instituto Rizo Movement",
     "valor": 665500.0,
     "valorEmpenhado": 665500.0,
-    "valorPago": 332750.0,
-    "percentualPago": 50.0,
+    "valorPago": 665500.0,
+    "percentualPago": 100.0,
     "situacao": "Em execução",
-    "observacao": "1. Processo da Emenda: 00046.002730/2024-78. TERMO DE PRORROGAÇÃO SIMPLIFICADA DE VIGÊNCIA N° 01 ENVIADO PARA SEMA EM 29/10/2026 PARA PUBLICAÇÃO.\n 2. Prestação de Contas 01/2026 (00045.020436/2026-76) em 28/10/2026 FOI FEITO PARECER FINANCEITO DA CGM:  \"Não foi encontrada nenhuma irregularidade na prestação de contas referente aos meses de abril/2026 a outubro/2026\"\n3.  Prestação de contas 2: 00045.038554/2026-61 em 22/10/2026 enviado para Controladoria Geral do Município de Teresina emitiu parecer financeiro: “Esta Controladoria-Geral do Município emite parecer financeiro favorável, sem ressalvas, à Prestação de Contas Parcial II do Termo de Fomento nº 12/2025,”"
+    "observacao": "1. Processo da Emenda: 00046.002730/2024-78. TERMO DE PRORROGAÇÃO SIMPLIFICADA DE VIGÊNCIA FOI PUBLICADO. ESTÁ NA CMA.\n 2. Prestação de Contas 01/2026 (00045.020436/2026-76) em 28/10/2026 FOI FEITO PARECER FINANCEITO DA CGM:  \"Não foi encontrada nenhuma irregularidade na prestação de contas referente aos meses de abril/2026 a outubro/2026\" EM 05/11/2026 ENVIADO PARA GAB-PRES PARA HOMOLOGAÇÃO.\n3.  Prestação de contas 2: 00045.038554/2026-61 em 22/10/2026 enviado para Controladoria Geral do Município de Teresina emitiu parecer financeiro: “Esta Controladoria-Geral do Município emite parecer financeiro favorável, sem ressalvas, à Prestação de Contas Parcial II do Termo de Fomento nº 12/2025,” CMA ENVIARÁ PARA O GAB-PRES."
   },
   {
     "vereador": "DEOLINDO MOURA",
@@ -477,7 +477,7 @@
     "valorPago": 0.0,
     "percentualPago": 0.0,
     "situacao": "Validada",
-    "observacao": "Aguardando finalização da Emenda nº 8/2025 para que não ocorra sobreposição de objetos. Em 28/10/2026 FOI ENVIADO Termo Aditivo DE PRORROGAÇÃO SIMPLIFICADA (17184110) PARA SEMA PARA PUBLICAÇÃO."
+    "observacao": "Aguardando finalização da Emenda nº 8/2025 para que não ocorra sobreposição de objetos. Em 28/10/2026 Termo Aditivo DE PRORROGAÇÃO SIMPLIFICADA (17184110) PARA SEMA PARA PUBLICAÇÃO FOI PUBLICADO. PROCESSO ESTÁ NA CMA"
   },
   {
     "vereador": "DEOLINDO MOURA",
@@ -749,7 +749,7 @@
     "valorPago": 500000.0,
     "percentualPago": 100.0,
     "situacao": "Em execução",
-    "observacao": "Emenda paga em sua totalidade. 2ª Parcela paga em 08/09/2026. Aguardando Prestação de Contas 1 (00045.020196/2026-57)  Ofício Nº 7861/2026 - CMA-DPLAN-FMS enviado em 13/10/2026 para o Instituto Rizo, até o dia 22/10/2026 não houve resposta. Prestação de Cotas 2: 00045.038205/2026-75: Decisão Administrativa Nº 3015, DE 03 DE setembro DE 2026 e Ofício Nº 7861/2026 - CMA-DPLAN-FMS anexados ao processo, até dia 22/10/2026 não houve resposta."
+    "observacao": "Emenda paga em sua totalidade. 2ª Parcela paga em 08/09/2026. Aguardando Prestação de Contas 1 (00045.020196/2026-57) EM 04/11/2026 ENCAMINAHDO PARA GESTOR-DRCAA: Com Ofício Resposta ao Ofício nº 7861.2026 – CMA-DP (17194499) para reanálise técnica com a atualização do Parecer Técnico da Prestação de Contas 16395410.. Prestação de Cotas 2: 00045.038205/2026-75: Decisão Administrativa Nº 3015, DE 03 DE setembro DE 2026 e Ofício Nº 7861/2026 - CMA-DPLAN-FMS anexados ao processo. EM 04/11/2026 enviado para o GESTOR DRCAA Com Ofício Resposta ao Ofício nº 7861.2026 – CMA (17194511) para reanálise técnica com a atualização do Parecer Técnico da Prestação de Contas 16398847."
   },
   {
     "vereador": "ENZO SAMUEL",
@@ -765,7 +765,7 @@
     "valorPago": 0.0,
     "percentualPago": 0.0,
     "situacao": "Validada",
-    "observacao": "Aguardando finalização da Emenda 00046.002699/2024-42 para que não ocorra sobreposição do objeto. ENVIADO ADITIVO EM 20/10/2026 PARA O GAB-PRES-FMS. DAF ENVIOU DESPACHO EM 22/10/2026 PARA GAB-PRES:  A Diretoria de Finanças informou que não houve repasse financeiro ao Instituto Rizo Movement pelo Termo de Fomento nº 06/2025, embora a Nota de Empenho nº 6494/2025 siga válida e inscrita em Restos a Pagar Não Processados. Essa inscrição garante a cobertura orçamentária, mas a efetiva disponibilidade financeira depende da liberação de recursos do Tesouro pela SEMF-PMT e da deliberação da Secretaria de Planejamento para a execução no exercício de 2027.\""
+    "observacao": "Aguardando finalização da Emenda 00046.002699/2024-42 para que não ocorra sobreposição do objeto. EXTRATO DO PRIMEIRO TERMO DE PRORROGAÇÃO SIMPLIFICADA DE VIGÊNCIA DO TERMO DE FOMENTO Nº 06/2025. PROCESSO ESTÁ NA CMA DESDE 04/11/2026"
   },
   {
     "vereador": "ENZO SAMUEL",
@@ -909,7 +909,7 @@
     "valorPago": 500000.0,
     "percentualPago": 100.0,
     "situacao": "Em execução",
-    "observacao": "Pago em sua totalidade, aguardando prestação de contas. Prestação de Contas 1: 00045.020191/2026-95 com parecer de análise financeira emitido em 28/09/2026, INSTITUTO RIXZO RESPONDEU EM 27/10/2026, CMA DEVE ENVIAR PARA CMA AS RESPOSTAS. Prestação de Contas 2: 00045.048037/2026-03 com parecer de análise financeira emitido em 30/09/2026, INSTITUTO RIZO RESPONDEU EM 27/10/2026, CMA DEVE ENVIAR PARA CGM."
+    "observacao": "Pago em sua totalidade, aguardando prestação de contas 3 PRESTAÇÃO DE CONTAS. Prestação de Contas 1: 00045.020191/2026-95 ENVIADO PARA CGM EM 04/11/2026  PARA REANÁLISE. Prestação de Contas 2: 00045.048037/2026-03 ENVIADO PARA CGM EM 04/11/2026 PARA REANÁLISE."
   },
   {
     "vereador": "FERNANDA GOMES",
@@ -941,7 +941,7 @@
     "valorPago": 0.0,
     "percentualPago": 0.0,
     "situacao": "Validada",
-    "observacao": "Aguardando finalização da Emenda 6/2026 para não ocorrer sobreposição de objeto. Em 28/10/2026  Termo Aditivo de Prorrogação Simplificada (17145407) ENVIADO PARA PUBLICAÇÃO."
+    "observacao": "Aguardando finalização da Emenda 6/2026 para não ocorrer sobreposição de objeto. Em 28/10/2026. EXTRATO DO PRIMEIRO TERMO DE PRORROGAÇÃO SIMPLIFICADA DE VIGÊNCIA DO TERMO DE FOMENTO Nº 10/2025. ESTÁ NA CMA DESDE 04/11/2026."
   },
   {
     "vereador": "FERNANDA GOMES",
@@ -1133,7 +1133,7 @@
     "valorPago": 0.0,
     "percentualPago": 0.0,
     "situacao": "Em execução",
-    "observacao": "Empenho emitido. Ordem de Serviço nº 01/2026 (Contrato nº 356/2026 - F E L Construtora LTDA) enviada para a empresa. Ordem de serviço no valor de R$ 488.499,00. Em 09/10/2026 GEA envia memo para DAB para a a realização de uma visita técnica à UBS Reginaldo M. Castro - Renascença, junto à gerência local, para vistoriar, fotografar e consolidar todas as demandas de manutenção predial (especialmente eventuais problemas não identificados no levantamento inicial da GEA-FMS), com o objetivo de conferir se estão contempladas nos projetos e na planilha orçamentária da Ordem de Serviço nº 01/2026. Além disso, pede que a Diretoria organize, junto à gestão da unidade, a desmobilização temporária e a programação dos espaços que passarão por obras, garantindo a mobilização da empresa contratada, o alinhamento com a fiscalização e a segurança do atendimento à população antes do início das intervenções."
+    "observacao": "Empenho emitido. Ordem de Serviço nº 01/2026 (Contrato nº 356/2026 - F E L Construtora LTDA) enviada para a empresa. Ordem de serviço no valor de R$ 488.499,00. UBS ESTÁ FECHADA PARA A EXECUÇÃO DA OBRA"
   },
   {
     "vereador": "JAMES GUERRA",
@@ -1197,7 +1197,7 @@
     "valorPago": 0.0,
     "percentualPago": 0.0,
     "situacao": "Em execução",
-    "observacao": "Contrato 212 (MUTUAL) Ordem de serviço emitida e assinada em 08/2026. Projeto realizado pela GEA. Vistoria realizada com engenheiro da Empresa na UBS para mostragem dos serviços à serem executados. Início da reforma na fila."
+    "observacao": "Contrato 212 (MUTUAL) Ordem de serviço emitida e assinada em 08/2026. Projeto realizado pela GEA. EM EXECUÇÃO"
   },
   {
     "vereador": "JOÃO PEREIRA",
@@ -1213,7 +1213,7 @@
     "valorPago": 0.0,
     "percentualPago": 0.0,
     "situacao": "Em execução",
-    "observacao": "Empenho 5108/2026 emitido"
+    "observacao": "Empenho 5108/2026 emitido. EMPRESA DEU ENTRADA MO PROCESO DE PAGAMENTO EM 05/11/2026. GESTORES ESTÃO FORMALIZANDO ADITIVO."
   },
   {
     "vereador": "JOÃO PEREIRA",
@@ -1293,7 +1293,7 @@
     "valorPago": 610000.0,
     "percentualPago": 100.0,
     "situacao": "Em execução",
-    "observacao": "PRESTAÇÃO DE CONTAS 1 (00045.016593/2026-47) enviado para CGM em 04/11/2026. PRESTAÇÃO DE CONTAS 2:00045.034987/2026-49  Presidência emitiu decsão administrativa: \" PROVAR a Prestação de Contas Parcial nº 2 do Termo de Fomento nº 04/2025, apresentada pela Clínica Batista “Peggy Pemble”, relativa à segunda parcela de R$ 188.970,00 (cento e oitenta e oito mil, novecentos e setenta reais), acolhendo as manifestações técnica e financeira e os esclarecimentos constantes dos documentos acima identificados.\"  CMA deve dá ciência à OSC. PRESTAÇÃO DE CONTAS 3(00046.002663/2024-44) : Em 01/11/2026 a OSC respondeu à notificação da CMA  referente à Decisão Administrativa nº 3534/2026 – Solicitação de manifestação e retificação de demonstrativos da prestação de contas (Termo de Fomento nº 004/2025) que foi enviada em 13/10/2026. CMA deve fazer o parecer de conformidade."
+    "observacao": "PRESTAÇÃO DE CONTAS 1 (00045.016593/2026-47) enviado para CGM em 04/11/2026. PRESTAÇÃO DE CONTAS 2:00045.034987/2026-49  Presidência emitiu decsão administrativa: \" APROVAR a Prestação de Contas Parcial nº 2 do Termo de Fomento nº 04/2025, apresentada pela Clínica Batista “Peggy Pemble”, relativa à segunda parcela de R$ 188.970,00 (cento e oitenta e oito mil, novecentos e setenta reais), acolhendo as manifestações técnica e financeira e os esclarecimentos constantes dos documentos acima identificados.\"  CMA deve dá ciência à OSC. PRESTAÇÃO DE CONTAS 3(00046.002663/2024-44) : EM 05/11/2026PARECER TÉCNICO DE CONFORMIDADE ELABORADO."
   },
   {
     "vereador": "JOAQUIM CALDAS",
@@ -1309,7 +1309,7 @@
     "valorPago": 724000.0,
     "percentualPago": 100.0,
     "situacao": "Executada",
-    "observacao": "Situação:  Prestação de Contas (00045.014804/2026-44) HÁ ANÁLISE FINANCEIRA E CONTÁBIL DA PRESTAÇÃO DE CONTAS ENVIADO PELA CGM EM 15/10/2026. NA MESMA DATA FOI ENVIADO OFÍCIO PARA OSC. A OSC POSSUI 15 DIAS PARA RESPOSTA. Controladoria Geral do Município emitiu parecer com ressalvas sobre a prestação de contas da 1ª parcela do Termo de Fomento nº 13/2025 da Comunidade Terapêutica Hebron. O órgão identificou irregularidades como notas fiscais ilegíveis, cotação única de preços, execução parcial das metas, falta de comprovação da lista total de profissionais/participantes e omissão de publicações oficiais. Por fim, solicitou o envio de documentos complementares e esclarecimentos por parte da entidade e da FMS antes de sua manifestação conclusiva."
+    "observacao": "Situação:  Prestação de Contas (00045.014804/2026-44) ENVIADA RESPOSTA DA ENTIDADE PARA CGM EM 05/11/2026"
   },
   {
     "vereador": "JOAQUIM CALDAS",
@@ -1485,7 +1485,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Validada",
-    "observacao": "Em processo de licitação (00045.027890/2026-93 e 00045.044858/2026-88- ATA VAN CTR). Consulta em 15/10/2026 enviado ao GAB-PRES-FMS em 13/10/2026 Para o prosseguimento do processo referente ao Despacho 2427/2026 - DCP-FMS, é necessária a obtenção do aceite do fornecedor Renault do Brasil S.A. e a autorização do Ministério da Integração e do Desenvolvimento Regional (MIDR). Essas providências já haviam sido indicadas no Item 5 do Despacho 2183/2026. Além disso, o andamento no Compras.gov.br exige a juntada de cinco documentos obrigatórios, incluindo justificativa da contratação, comprovação de vantagem e compatibilidade de preços. GAB-PRES-FMS fez ofício para a empresa em 19/10/2026. EM 20/10/2026 O GAB-PRES ENVIOU OFÍCIO PARA A EMPRESA RENAULT."
+    "observacao": "Em processo de licitação (00045.027890/2026-93 e 00045.044858/2026-88- ATA VAN CTR). Consulta em 15/10/2026 enviado ao GAB-PRES-FMS em 13/10/2026 Para o prosseguimento do processo referente ao Despacho 2427/2026 - DCP-FMS, é necessária a obtenção do aceite do fornecedor Renault do Brasil S.A. e a autorização do Ministério da Integração e do Desenvolvimento Regional (MIDR). Essas providências já haviam sido indicadas no Item 5 do Despacho 2183/2026. Além disso, o andamento no Compras.gov.br exige a juntada de cinco documentos obrigatórios, incluindo justificativa da contratação, comprovação de vantagem e compatibilidade de preços. GAB-PRES-FMS fez ofício para a empresa em 19/10/2026. EM 20/10/2026 O GAB-PRES ENVIOU OFÍCIO PARA A EMPRESA RENAULT. OFÍCIO FOI REITERADO"
   },
   {
     "vereador": "LEONIDAS JÚNIOR",
@@ -1581,7 +1581,7 @@
     "valorPago": 1334000.0,
     "percentualPago": 100.0,
     "situacao": "Em execução",
-    "observacao": "Pago em sua totalidade. Aguardando 3ª Prestação de Contas. Prestação de contas 1: 00045.016592/2026-74 enviado para CGM em 04/11/2026.  Prestação de Contas 2: 00045.034980/2026-44 enviado para a CGM em 05/11/2026. Processo deve ser enviado para CGM. TERMO DE FOMENTO FOI ADITIVADO E ESTÁ VÁLIDO ATÉ 28/10/2026."
+    "observacao": "Pago em sua totalidade. Aguardando 3ª Prestação de Contas. Prestação de contas 1: 00045.016592/2026-74 enviado para CGM em 04/11/2026.  Prestação de Contas 2: 00045.034980/2026-44 enviado para a CGM em 05/11/2026.  PRESTAÇÃO DE CONTAS 3: AGUARDANDO ENVIO PELA OSC."
   },
   {
     "vereador": "LUIS ANDRÉ",
@@ -1597,7 +1597,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Validada",
-    "observacao": "EM 22/10/2026 FOI ENVIADO AO GAB-PRES-FMS."
+    "observacao": "HÁ MANIFESTAÇÃO JURÍDICA PROCESSO ESTÁ NA GISAB E DPLAN"
   },
   {
     "vereador": "LUIS LOBÃO",
@@ -1773,7 +1773,7 @@
     "valorPago": 0.0,
     "percentualPago": 0.0,
     "situacao": "Em execução",
-    "observacao": "Nota de Empenho 6799/2026 (17159292) e Nota de Empenho 6800/2026 (17159424) emitidos em 27/10/2026"
+    "observacao": "Nota de Empenho 6799/2026 (17159292) e Nota de Empenho 6800/2026 (17159424) emitidos em 27/10/2026. EMPRESA TEM 60 DIAS ÚTEIS PARA ENTREGAR AMBULÂNCIA"
   },
   {
     "vereador": "PETRUS EVELYN",
@@ -1789,7 +1789,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Validada",
-    "observacao": "Atesto de validação enviado para FMS em 26/10/2026"
+    "observacao": "ENVIADO PARA DAE EM 04/11/2026 PARA PROCEDER COM A LICITAÇÃO"
   },
   {
     "vereador": "PETRUS EVELYN",
@@ -2141,7 +2141,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Validada",
-    "observacao": "Está na DPLAN em análise de conformidade"
+    "observacao": "Está na DPLAN em análise de conformidade. HÁ MANIFESTAÇÃO JURÍDICA. ENVIADO PARA GISAB"
   },
   {
     "vereador": "VALDEMIR VIRGINO",
@@ -2202,10 +2202,10 @@
     "beneficiario": "Associação Brasileira de Pesquisa e Tratamentos Multidisciplinares da Paralisia Cerebral - Instituto Rizo Movement",
     "valor": 540000.0,
     "valorEmpenhado": 540000.0,
-    "valorPago": 270000.0,
-    "percentualPago": 50.0,
+    "valorPago": 540000.0,
+    "percentualPago": 100.0,
     "situacao": "Em execução",
-    "observacao": "1. Processo: 00046.002518/2024-79 #Termo Aditivo DE PRORROGAÇÃO SIMPLIFICADA 01 ENVIADO PARA SEMA PARA PUBLICAÇÃO E FOI SOLICITADO O PAGAMENTO DA 2ª PARCELA DO TERMO DE FOMENTO.\n2.  Prestação de Contas 1 (00045.020529/2026-87) Em 27/10/2026 CGM EMITIU: Parecer financeiro favorável sem ressalvas referente à prestação de contas parcial I do Termo de Fomento nº 07/2025, por evidenciarem falhas de natureza formal que não ocasionaram dano ao erário.\n3.Prestação de Contas 2( 00045.037033//2026-97)  Em 27/10/2026 CGM arecer financeiro favorável sem ressalvas referente à prestação de contas parcial II do Termo de Fomento nº 07/2025, por evidenciarem falhas de natureza formal que não ocasionaram dano ao erário."
+    "observacao": "1. Processo: 00046.002518/2024-79 Termo Aditivo DE PRORROGAÇÃO SIMPLIFICADA 01 PUBLICADO E PROCESSO ESTÁ NA CMA DESDE 04/11/2026.\n2.  Prestação de Contas 1 (00045.020529/2026-87) Em 27/10/2026 CGM EMITIU: Parecer financeiro favorável sem ressalvas referente à prestação de contas parcial I do Termo de Fomento nº 07/2025, por evidenciarem falhas de natureza formal que não ocasionaram dano ao erário. PROCESSO ESTÁ NA CMA DESDE 29/110/2026 DEVE SER HOMOLOGADO PELA PRESIDÊNCIA.\n3.Prestação de Contas 2( 00045.037033//2026-97)  Em 27/10/2026 CGM arecer financeiro favorável sem ressalvas referente à prestação de contas parcial II do Termo de Fomento nº 07/2025, por evidenciarem falhas de natureza formal que não ocasionaram dano ao erário. DEVE SER HOMOLOGADO PELA PRESIDÊNCIA."
   },
   {
     "vereador": "VENANCIO",
@@ -2221,7 +2221,7 @@
     "valorPago": 0.0,
     "percentualPago": 0.0,
     "situacao": "Validada",
-    "observacao": "Aguardando finalização da Emenda nº 7/2025 para que não ocorra sobreposição de objetos.\nEm 29/10/2026 foi assinado Termo Aditivo de Prorrogação Simplificada (17185710)"
+    "observacao": "Aguardando finalização da Emenda nº 7/2025 para que não ocorra sobreposição de objetos.\nEm 04/11/2026  enviado para publicação Termo Aditivo de Prorrogação Simplificada"
   },
   {
     "vereador": "VENANCIO",
