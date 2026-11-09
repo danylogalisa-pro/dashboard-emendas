@@ -1316,16 +1316,16 @@
     "ano": 2026,
     "processo": "00046.009528/2025-53",
     "emenda": "1/2026",
-    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro",
+    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro: RESGATANDO SORRISOS",
     "diretoria": "DRCAA",
     "tipo": "INDIRETA",
     "beneficiario": "Associação Piauiense Desenvolver – APD",
-    "valor": 757000.0,
+    "valor": 411000.0,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
+    "situacao": "Em validação",
+    "observacao": "Em 09/11/2026 enviado para FMS"
   },
   {
     "vereador": "JOAQUIM CALDAS",
@@ -1548,8 +1548,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
-    "observacao": "Com parecer de conformidade assinado em 06/11/2026"
+    "situacao": "Impedimento Técnico",
+    "observacao": "Processo enviado para SEMPLAN em 09/11/2026 com impedimento técnico"
   },
   {
     "vereador": "LUCY SOARES",
