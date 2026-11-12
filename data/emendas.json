@@ -121,11 +121,11 @@
     "tipo": "DIRETA",
     "beneficiario": "FMS",
     "valor": 1168000.0,
-    "valorEmpenhado": 0.0,
+    "valorEmpenhado": 659988.0,
     "valorPago": 0.0,
-    "percentualPago": 0,
+    "percentualPago": 0.0,
     "situacao": "Em execução",
-    "observacao": "Processo da licitação: 00045.023247/2026-33 EDITAL DE PREGÃO ELETRÔNICO Nº 144/2026 (equipamentos hospitalares) publicado. Processo de Licitação: 00045.056673/2025-22 ASSINATURA DA ATA DE REGISTRO DE PREÇOS Nº 00069/2026 - PREGÃO ELETRÔNICO Nº 78/2026 enviado por e-mail aviso para empresas em 02/10/2026.  Foi solicitado empenho do contrato 316/2026: empenho de 12 cardioversores, valor unitário R$18.999,00, perfazendo o valor total a ser empenhado de R$227.988,00 (Contrato nº 316/2026 - MATMED - 16785199) . NOTA DE EMPENHO 7114/2026 ESTÁ SENDO EMITIDA, enviado dia 10/11/2026 para EXEC-ORC-SEPLAG-SEMPLAN para liberação de Cota Orçamentária"
+    "observacao": "Processo da licitação: 00045.023247/2026-33 EDITAL DE PREGÃO ELETRÔNICO Nº 144/2026 (equipamentos hospitalares): SITUAÇÃO: EM 23/10/2026 ENVIADO PARA GEDCP COM MANIFESTAÇÃO DA ÁREA TÉCNICA. Processo de Licitação: 00045.056673/2025-22 ASSINATURA DA ATA DE REGISTRO DE PREÇOS Nº 00069/2026 - PREGÃO ELETRÔNICO Nº 78/2026 EM 12/11/2026 Nota de Empenho 7114/2026 (17316114), Nota de Empenho 7204/2026 (17385272) e Nota de Empenho 7205/2026 (17385431) forama assinados e enviados para as empresas."
   },
   {
     "vereador": "ANA FIDELIS",
@@ -567,13 +567,13 @@
     "projeto": "Realização de mutirões de exames para redução de fila de espera de regulação pela FMS: Endoscopia, Colonoscopia, Ultrassonografia e Ecocardiografia. Mutirão de Mamografia em consultório móvel",
     "diretoria": "DRCAA",
     "tipo": "INDIRETA",
-    "beneficiario": "Fundação para o Desenvolvimento Sustentável do Estado do Piauí – FUNDESP",
-    "valor": 1407000.0,
+    "beneficiario": "GRUPO AMIGOS DA VIDA – GAV",
+    "valor": 1168000.0,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 12/11/2026."
   },
   {
     "vereador": "EDUARDO DRAGA ALANA",
@@ -669,7 +669,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Impedimento Técnico",
-    "observacao": "Enviado para a SEMPLAN em 11/10/2026"
+    "observacao": "Processo chegou na FMS em 09/11/2026 com novo plano de trabalho. Enviado para a SEMPLAN em 11/10/2026. Em 12/11/2026 A SEMPLAN enviou Ofício para Vereadora."
   },
   {
     "vereador": "ELZUILA CALISTO",
@@ -1210,10 +1210,10 @@
     "beneficiario": "FMS",
     "valor": 150000.0,
     "valorEmpenhado": 74580.0,
-    "valorPago": 0.0,
-    "percentualPago": 0.0,
+    "valorPago": 74580.0,
+    "percentualPago": 100.0,
     "situacao": "Em execução",
-    "observacao": "Empenho 5108/2026 emitido. EMPRESA DEU ENTRADA MO PROCESO DE PAGAMENTO EM 05/11/2026. GESTORES ESTÃO FORMALIZANDO ADITIVO."
+    "observacao": "Empenho 5108/2026 foi pago em 11/11/2026. DAB está solicitando aditivo ao contrato."
   },
   {
     "vereador": "JOÃO PEREIRA",
