@@ -957,7 +957,7 @@
     "valorPago": 284530.0,
     "percentualPago": 40.0,
     "situacao": "Em execução",
-    "observacao": "Pagamento realizado em 07/10/2026 atentar para a primeira presrtação de contas em 07/11/2026. 1ª Prestação de Contas: 00045.065606/2026-67 está na CMA para parecer de confirmidade."
+    "observacao": "Pagamento realizado em 07/10/2026 atentar para a primeira presrtação de contas em 07/11/2026. 1ª Prestação de Contas: 00045.065606/2026-67 Foi enviado para a Clínica em 12/11/2026 para ajustes."
   },
   {
     "vereador": "FERNANDA GOMES",
@@ -1324,8 +1324,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Impedimento Técnico",
-    "observacao": "Em 10/11/2026 enviado para SEPLAG com impedimento técnico"
+    "situacao": "Em validação",
+    "observacao": "Em 10/11/2026 enviado para SEPLAG com impedimento técnico. Em 12/11/2026 reenviado para FMS para análise de conformidade"
   },
   {
     "vereador": "JOAQUIM CALDAS",
@@ -1340,8 +1340,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Impedimento Técnico",
-    "observacao": "Em 03/11/2026 foi enviado impedimento técnico. A OSC não possui CNES"
+    "situacao": "Em validaçao",
+    "observacao": "Em 03/11/2026 foi enviado impedimento técnico. A OSC não possui CNES. Em 12/11/2026  foi reenviado para a FMS para análise de conformidade."
   },
   {
     "vereador": "JOAQUIM CALDAS",
@@ -1444,16 +1444,16 @@
     "ano": 2026,
     "processo": "00046.009555/2025-03",
     "emenda": "9/2026",
-    "projeto": "Chamamento Público para Realização de Mutirões de Consultas e Exames para Redução da Fila de Espera. Projeto Avançar – Inclusão e Saúde para Crianças e Adolescentes PCD",
-    "diretoria": "DRCAA",
+    "projeto": "Implementação de AÇÕES de EDUCAÇÃO permanente no âmbito da assistência à saúde da FMS  (SAÚDE INCLUSIVA – ATENDIMENTO A PCD E TEA EM PERSPECTIVA MULTIPROFISSIONAL)",
+    "diretoria": "DAE",
     "tipo": "INDIRETA",
-    "beneficiario": "Associação Viva com Esperança",
+    "beneficiario": "GAV (GRUPO AMIGOS DA VIDA",
     "valor": 822000.0,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Impedimento Técnico",
-    "observacao": "Enviado para a SEMPLAN impedimento em 04/11/20/2026"
+    "situacao": "Em validação",
+    "observacao": "Enviado para a SEMPLAN impedimento em 04/11/2026. Reenviado para a FMS em 12/11/2026 está em análise de conformidade"
   },
   {
     "vereador": "LEONIDAS JÚNIOR",
@@ -1789,7 +1789,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Validada",
-    "observacao": "ENVIADO PARA DAE EM 04/11/2026 PARA PROCEDER COM A LICITAÇÃO"
+    "observacao": "ENVIADO PARA DAE EM 04/11/2026 PARA PROCEDER COM A LICITAÇÃO. ESTÁ NA GERÊNCIA DE SAÚDE MENTAL PARA PRODUÇÃO DO TERMO DE REFERÊNCIA"
   },
   {
     "vereador": "PETRUS EVELYN",
@@ -2260,7 +2260,7 @@
     "ano": 2026,
     "processo": "00046.009621/2025-64",
     "emenda": "8/2026",
-    "projeto": "Realização de multirões de exames para redução de fila de espera de regulação pela FMS: Endoscopia, Colonoscopia, Ultrassonografia e Ecocardiografia . Projeto Mais Visão – Zona Sul. Execução do Projeto Mais Visão – Zona Sul, em Teresina–PI, voltado à ampliação do acesso à assistência oftalmológica, à prevenção da cegueira evitável e à correção de alterações visuais, com atendimento de até 350 beneficiários diretos. Serão ofertadas 350 consultas médicas especializadas em oftalmologia e 980 exames, sendo 350 mapeamentos de retina, 350 paquimetrias ultrassônicas e 280 tonometrias, além do fornecimento gratuito de 185 óculos de grau completos aos beneficiários com prescrição médica e enquadramento nos critérios de elegibilidade. A ação contemplará mobilização comunitária, acolhimento, cadastro, triagem, educação em saúde ocular e encaminhamento dos casos que necessitarem de continuidade assistencial na rede pública.",
+    "projeto": "Realização de multirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro - Projeto Mais Visão – Zona Sul. Execução do Projeto Mais Visão – Zona Sul, em Teresina–PI, voltado à ampliação do acesso à assistência oftalmológica, à prevenção da cegueira evitável e à correção de alterações visuais, com atendimento de até 350 beneficiários diretos. Serão ofertadas 350 consultas médicas especializadas em oftalmologia e 980 exames, sendo 350 mapeamentos de retina, 350 paquimetrias ultrassônicas e 280 tonometrias, além do fornecimento gratuito de 185 óculos de grau completos aos beneficiários com prescrição médica e enquadramento nos critérios de elegibilidade. A ação contemplará mobilização comunitária, acolhimento, cadastro, triagem, educação em saúde ocular e encaminhamento dos casos que necessitarem de continuidade assistencial na rede pública.",
     "diretoria": "DRCAA",
     "tipo": "INDIRETA",
     "beneficiario": "Associação Piauiense Desenvolver – APD",
@@ -2268,8 +2268,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Impedimento Técnico",
-    "observacao": "Enviado para vereador em 23/10/2026"
+    "situacao": "Em validação",
+    "observacao": "Enviado para FMS em 12/11/2026. Está na DRCAA desde o dia 13/11/2026 para emissão de parecer técnico"
   },
   {
     "vereador": "VENANCIO",
