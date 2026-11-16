@@ -68,7 +68,7 @@
     "ano": 2026,
     "processo": "00046.009362/2025-73",
     "emenda": "1/2026",
-    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro. Realização do Ação Pela Visão tem o intuito de atender a população com consultas, exames e cirurgias, relacionados a deficiência visual.",
+    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro.O Mutirão de Glaucoma constitui iniciativa de caráter técnico, assistencial e humanitário voltada à promoção da saúde ocular, prevenção da cegueira evitável, identificação precoce, diagnóstico e tratamento das principais doenças oftalmológicas de maior prevalência e impacto funcional e social, com ênfase na patologia Glaucoma.",
     "diretoria": "DRCAA",
     "tipo": "INDIRETA",
     "beneficiario": "Associação Piauiense Desenvolver – APD",
@@ -76,8 +76,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação. Informo que o Plano no sistema SECIEPI diverge do  Cadastro Anexo CADASTRO EP 012026 - ALUISIO"
+    "situacao": "Em validação",
+    "observacao": "Em 16/11/2026 foi enviado para FMS para análise técnica."
   },
   {
     "vereador": "ALUÍSIO SAMPAIO",
@@ -820,7 +820,7 @@
     "ano": 2026,
     "processo": "00046.009474/2025-56",
     "emenda": "3/2026",
-    "projeto": "Implementação de AÇÕES de EDUCAÇÃO permanente no âmbito da assistência à saúde da FMS. Projeto Teresina que Cuida: Ação Integrada em Feridas e Ostomias.",
+    "projeto": "Incremento temporário MAC para Ações Qualitativas por Estabelecimentos Contratualizados/Conveniados. Projeto Visão Infantil e Saúde Integral: Diagnóstico Oftalmológico e Avaliações Multiprofissionais com Entrega de Óculos em Teresina/PI ZONA RURAL LESTE",
     "diretoria": "DAE",
     "tipo": "INDIRETA",
     "beneficiario": "Clínica Batista Peggy Pemble",
@@ -828,8 +828,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Impedimento Técnico",
-    "observacao": "Em 06/10/2026 SEMPLAN enviou ofício para o vereador."
+    "situacao": "Em validação",
+    "observacao": "Em 16/11/2026 foi enviado para FMS para análise técnica."
   },
   {
     "vereador": "ENZO SAMUEL",
@@ -964,7 +964,7 @@
     "ano": 2026,
     "processo": "00046.009488/2025-66",
     "emenda": "7/2026",
-    "projeto": "Aquisição de Equipamentos para Atenção Especializada - Aquisição de Moto para o SAMU",
+    "projeto": "Aquisição de Equipamentos para Atenção Especializada (UPAS/Hospitais/Maternidades/CAPS) Aquisição de Moto para o SAMU",
     "diretoria": "DAE",
     "tipo": "DIRETA",
     "beneficiario": "FMS",
@@ -972,8 +972,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Impedimento Técnico",
-    "observacao": "Ofício de impedimento enviado para a vereadora em *06/05/2026.*"
+    "situacao": "Em validação",
+    "observacao": "Enviado pra a FMS em 16/11/2026 para a FMS para análise de conformidade."
   },
   {
     "vereador": "FERNANDA GOMES",
@@ -1149,7 +1149,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Processo retornoui para a FMS em 13/11/2026"
+    "observacao": "Processo retornoui para a FMS em 13/11/2026. Parecer técnico em elaboração pela DAB, DAE e GDP"
   },
   {
     "vereador": "JAMES GUERRA",
