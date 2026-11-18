@@ -493,7 +493,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Processo foi enviado para a FMS em 17/11/2026. Esá em análise de conformidade."
+    "observacao": "Processo foi enviado para a FMS em 17/11/2026. Está em análise técnica. Enviado para a DRCAA"
   },
   {
     "vereador": "DEOLINDO MOURA",
@@ -660,7 +660,7 @@
     "ano": 2026,
     "processo": "00046.009470/2025-67",
     "emenda": "8/2026",
-    "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro. multiroes pelas diversos bairros de teresina. Promoção, proteção e recuperação da saúde bucal ,tanto individual como coletiva e tem como objetivo ,assegurar o acesso da população a atendimento de\nqualidade",
+    "projeto": "Realização de multirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro.Mutirão do Saúde dos Olhos constitui iniciativa de caráter técnico, assistencial e humanitário voltada à promoção da saúde ocular, prevenção da cegueira evitável, identificação precoce, diagnóstico e tratamento das principais doenças oftalmológicas de maior prevalência e impacto funcional e social, com ênfase na patologia retinopatia diabética, em especial no procedimento cirúrgico de Anti-Veg, conhecido como popularmente como Avastin",
     "diretoria": "DAE",
     "tipo": "INDIRETA",
     "beneficiario": "Associação Piauiense Desenvolver – APD",
@@ -984,12 +984,12 @@
     "diretoria": "DAE",
     "tipo": "INDIRETA",
     "beneficiario": "Clínica Batista Peggy Pemble",
-    "valor": 711325.0,
+    "valor": 412280.0,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Impedimento Técnico",
-    "observacao": "foi reenviado para a FMS em 13/11/2026. Em 16/11/2026 Ofício de Impedimento técnico foi enviado para a SEMPLAN"
+    "observacao": "Foi reenvidado para FMS em 18/11/2026. Enviado para SEMPLAN com impedimento técnico em 18/11.2026"
   },
   {
     "vereador": "FERNANDO LIMA",
@@ -1220,16 +1220,16 @@
     "ano": 2026,
     "processo": "00046.009518/2025-32",
     "emenda": "1/2026",
-    "projeto": "Implementação de Ações de Educação Permanente no âmbito da assistência à saúde da FMS. DESENVOLVIMENTO INTEGRAL CRIANÇAS COM AUTISMO",
+    "projeto": "Implementação de AÇÕES de EDUCAÇÃO permanente no âmbito da assistência à saúde da FMS.  execução de ações de promoção da saúde e prevenção de agravos voltadas a crianças e suas famílias, com foco na melhoria da qualidade de vida e no desenvolvimento integral. A iniciativa busca enfrentar problemas como desnutrição e obesidade infantil, vulnerabilidade social, exposição à violência e dificuldades no acompanhamento de crianças com Transtorno do Espectro Autista (TEA",
     "diretoria": "DAB",
     "tipo": "INDIRETA",
     "beneficiario": "Associação de Apoio Assistencial, Cultural e Educacional Maria do Amparo - AACEMA",
-    "valor": 1357000.0,
+    "valor": 917728.09,
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Está na SEMPLAN",
-    "observacao": "Em 21/09/2026 Plano de trabalho inserido no SECIEPI. Processo devolvido para a SEMPLAN conforme orientação."
+    "situacao": "Em validação",
+    "observacao": "Processo foi enviado para a FMS em 18/11/2026"
   },
   {
     "vereador": "JOÃO PEREIRA",
