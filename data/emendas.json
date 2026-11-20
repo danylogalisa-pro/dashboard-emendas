@@ -221,12 +221,12 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Foi enviado para a FMS em 19/11/2026"
+    "observacao": "Foi enviado para a FMS em 19/11/2026. Está em análise de conformidade."
   },
   {
     "vereador": "BRUNO VILARINHO",
     "ano": 2026,
-    "processo": "00046.009382/2025-18",
+    "processo": "Processo da licitação: 00045.023247/2026-33 EDITAL DE PREGÃO ELETRÔNICO Nº 144/2026 (equipamentos hospitalares): SITUAÇÃO: EM 18/11/2026 ENVIADO PARA DIRETORIA MATERNIDADE WALL FERRAS COM RECURSOS. Processo de Licitação: 00045.056673/2025-22 ASSINATURA DA ATA DE REGISTRO DE PREÇOS Nº 00069/2026 - PREGÃO ELETRÔNICO Nº 78/2026 EM 12/11/2026 Nota de Empenho 7114/2026 (17316114), Nota de Empenho 7204/2026 (17385272) e Nota de Empenho 7205/2026 (17385431) forama assinados e enviados para as empresas.",
     "emenda": "1/2026",
     "projeto": "Incremento temporário MAC para Ações Qualitativas por Estabelecimentos Contratualizados/Conveniados. mplantar o Complexo Integrado de Acessibilidade e Segurança Assistencial na CLÍNICA BATISTA PEGGY PEMBLE, no município de Teresina-PI, garantindo o acesso seguro, autônomo, contínuo e humanizado aos pavimentos da instituição para pessoas com deficiência, idosos com mobilidade reduzida e pacientes neurodivergentes, por meio de adequação arquitetônica, incorporação tecnológica e segurança energética de suporte à vida, em observância estrita às normas técnicas da ABNT NBR 9050, à Lei nº 13.146/2015 e à Lei nº 10.098/2000",
     "diretoria": "DAE",
@@ -237,7 +237,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Foi enviado para a FMS em 19/11/2026"
+    "observacao": "Foi enviado para a FMS em 19/11/2026. Está em análise de conformidade."
   },
   {
     "vereador": "BRUNO VILARINHO",
@@ -413,7 +413,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Validada",
-    "observacao": "ENVIADO PARA DPLAN-FMS, GEPLAN-FMS, GISAB/DAB-FMS e DCP-FMS COM PARECER JURÍDICO."
+    "observacao": "Em 18/11/2026 assessoria jurídica emitiu um novo parecer. Em 19/11/2026 foi enviado ofício para a entidade adequar seu plano de trabalho de acordo com as recomendações da assessoria jurídica."
   },
   {
     "vereador": "DANIEL CARVALHO",
@@ -541,7 +541,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Validada",
-    "observacao": "EM 23/10/2026 ENVIADO PARA DPLAN-FMS, GEPLAN-FMS, GISAB/DAB-FMS e DCP-FMS, PARA AJUSTES"
+    "observacao": "Em 18/11/2026 assessoria jurídica emitiu um novo parecer. Em 19/11/2026 foi enviado ofício para a entidade adequar seu plano de trabalho de acordo com as recomendações da assessoria jurídica."
   },
   {
     "vereador": "EDILBERTO BORGES",
