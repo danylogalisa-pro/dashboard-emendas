@@ -2364,8 +2364,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
-    "observacao": "Processo foi enviado para a FMS em 17/11/2026"
+    "situacao": "Impedimento Técnico",
+    "observacao": "Processo foi enviado para a FMS em 17/11/2026. Devolvido para a SEPLAG em 20/11/2026 com impedimento técnico. O objeto da emenda é educação permanente em saúde e a entidade deseja realizar um mutirão."
   },
   {
     "vereador": "ZÉ FILHO",
