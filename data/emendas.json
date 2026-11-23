@@ -573,7 +573,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Processo foi enviado para a FMS em 12/11/2026. Está na GDP, DAE e DAB para emissão de Parecer téncico."
+    "observacao": "Foi enviado para OSC em 23/11/2026 para ajustes no plano de trabalho. prazo 15 dias."
   },
   {
     "vereador": "EDUARDO DRAGA ALANA",
@@ -658,7 +658,7 @@
   {
     "vereador": "ELZUILA CALISTO",
     "ano": 2026,
-    "processo": "Processo chegou na FMS em 09/11/2026 com novo plano de trabalho. Enviado para a SEMPLAN em 11/10/2026. Em 12/11/2026 A SEMPLAN enviou Ofício para Vereadora. Em 17/11/2026 foi renviado para a FMS. Em 23/11/2026 foi enviado para DRCAA para emissão de parecer técnico.",
+    "processo": "00046.009470/2025-67",
     "emenda": "8/2026",
     "projeto": "Realização de multirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro.Mutirão do Saúde dos Olhos constitui iniciativa de caráter técnico, assistencial e humanitário voltada à promoção da saúde ocular, prevenção da cegueira evitável, identificação precoce, diagnóstico e tratamento das principais doenças oftalmológicas de maior prevalência e impacto funcional e social, com ênfase na patologia retinopatia diabética, em especial no procedimento cirúrgico de Anti-Veg, conhecido como popularmente como Avastin",
     "diretoria": "DAE",
@@ -749,7 +749,7 @@
     "valorPago": 500000.0,
     "percentualPago": 100.0,
     "situacao": "Em execução",
-    "observacao": "Emenda paga em sua totalidade. 2ª Parcela paga em 08/09/2026. Aguardando Prestação de Contas 1 (00045.020196/2026-57)  Em 11/11/2026 o gestor do termo se manifestou: m atenção ao Despacho nº 193/2026 e ao Ofício nº 115/2026 do Instituto Rizo Movement, o Gestor ratifica que a Presidência da FMS (Decisão Administrativa nº 3367/2026) já superou a questão da antecipação de despesas (R$ 38.000,00), afastando a devolução de valores por ausência de dano ao erário. Atesta-se que a entidade parceira apresentou todos os documentos complementares técnicos e físicos exigidos (relatórios e contratos), além dos extratos bancários cuja análise financeira compete privativamente à CGM. Com o saneamento documental cumprido e o parecer técnico inicial já emitido, dispensa-se nova análise integral e restituem-se os autos à CMA-DPLAN-FMS para envio à Controladoria-Geral do Município (CGM) para emissão do Parecer Financeiro..Prestação de Cotas 2: 00045.038205/2026-75: Em 11/11/2026 o gstor se manifestou em atenção ao Despacho nº 194/2026 e ao Ofício nº 115/2026 do Instituto Rizo Movement (Prestação de Contas Parcial 2 do Termo de Fomento nº 05/2025), o Gestor atesta a entrega dos documentos complementares exigidos e reitera que a antecipação de despesas (R$ 38.000,00) já foi superada pela Presidência da FMS na Decisão Administrativa nº 3015/2026. Com o saneamento documental cumprido e o parecer técnico favorável já emitido, dispensa-se nova análise integral e restituem-se os autos à CMA/DPLAN para envio à Controladoria-Geral do Município (CGM) para emissão do Parecer Financeiro.  3° Prestação de contas: *00045.066087/2026-78* Chegou na FMS em 10/11/2026. Foi enviada para análise do gestor em 12/11/2026."
+    "observacao": "Emenda paga em sua totalidade. 2ª Parcela paga em 08/09/2026. Aguardando Prestação de Contas 1 (00045.020196/2026-57) EM 23/11/2026 CMA ENVIOU OFÍCIO PARA CGM PARA ANÁLISE FINANCEIRA .Prestação de Cotas 2: 00045.038205/2026-75: EM 23/11/2026 CMA ENVIOU OFÍCIO PARA CGM PARA ANÁLISE FINANCEIRA .  3° Prestação de contas: *00045.066087/2026-78* Chegou na FMS em 10/11/2026. Foi enviada para análise do gestor em 12/11/2026."
   },
   {
     "vereador": "ENZO SAMUEL",
@@ -909,7 +909,7 @@
     "valorPago": 500000.0,
     "percentualPago": 100.0,
     "situacao": "Em execução",
-    "observacao": ". Prestação de Contas 1: 00045.020191/2026-95 ENVIADO PARA CGM EM 04/11/2026  PARA REANÁLISE, EM 18/11/2026 A CGM DETECTOU ausência de informações referentes às providências tomadas quanto à divergência de valor pago e devido da NF 16/U, já apontada no Despacho 630/2026 - PCONT-CGM . Prestação de Contas 2: 00045.048037/2026-03 CGM EMITIU PARECER FAVORÁVEL SEM RESSALVAS EM 18/11/2026 ENVIAR PARA GAB-PRES PARA HOMOLOGAÇÃO. 3ª PRESTAÇÃO DE CONTAS: ENVIADA EM 11/11/2026 E ESTÁ EM ANALISE DE CONFORMIDADE NA CMA"
+    "observacao": ". Prestação de Contas 1: 00045.020191/2026-95 ENVIADO PARA CGM EM 04/11/2026  PARA REANÁLISE, EM 18/11/2026 A CGM DETECTOU ausência de informações referentes às providências tomadas quanto à divergência de valor pago e devido da NF 16/U, já apontada no Despacho 630/2026 - PCONT-CGM . Prestação de Contas 2: 00045.048037/2026-03 CGM EMITIU PARECER FAVORÁVEL SEM RESSALVAS EM 18/11/2026 ENVIAR PARA GAB-PRES PARA HOMOLOGAÇÃO. 3ª PRESTAÇÃO DE CONTAS(00045.067023/2026-26) : EM 23/11/2026 PRESTAÇÃO DE CONTAS SERÁ DEVOLVIDA PARA A OSC PARA AJUSTES."
   },
   {
     "vereador": "FERNANDA GOMES",
@@ -988,8 +988,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Impedimento Técnico",
-    "observacao": "Foi reenvidado para FMS em 18/11/2026. Enviado para SEMPLAN com impedimento técnico em 18/11.2026"
+    "situacao": "Em validação",
+    "observacao": "Enviado para a FMS em 23/11/2026 para análise técnica"
   },
   {
     "vereador": "FERNANDO LIMA",
@@ -1149,7 +1149,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Processo retornoui para a FMS em 13/11/2026. Parecer técnico em elaboração pela DAB, DAE e GDP"
+    "observacao": "Enviado em 23/11/2026 para OSC para ajsutes. Prazo 15 dias."
   },
   {
     "vereador": "JAMES GUERRA",
@@ -1293,7 +1293,7 @@
     "valorPago": 610000.0,
     "percentualPago": 100.0,
     "situacao": "Em execução",
-    "observacao": "PRESTAÇÃO DE CONTAS 1 (00045.016593/2026-47) enviado para CGM em 04/11/2026 CGM reiterou parecer favorável. Processo enviado para GAB-PRES-FMS para homologação.. PRESTAÇÃO DE CONTAS 2:00045.034987/2026-49  Presidência emitiu decsão administrativa: \" APROVAR a Prestação de Contas Parcial nº 2 do Termo de Fomento nº 04/2025, apresentada pela Clínica Batista “Peggy Pemble”, relativa à segunda parcela de R$ 188.970,00 (cento e oitenta e oito mil, novecentos e setenta reais), acolhendo as manifestações técnica e financeira e os esclarecimentos constantes dos documentos acima identificados.\"  CMA deve dá ciência à OSC. PRESTAÇÃO DE CONTAS 3(00046.002663/2024-44) : EM 05/11/2026PARECER TÉCNICO DE CONFORMIDADE ELABORADO.  ENVIADO PARA OSC EM 11/11/2026."
+    "observacao": "PRESTAÇÃO DE CONTAS 1 (00045.016593/2026-47) enviado para CGM em 04/11/2026 CGM reiterou parecer favorável. Processo enviado para GAB-PRES-FMS para homologação.. PRESTAÇÃO DE CONTAS 2:00045.034987/2026-49  Presidência emitiu decsão administrativa: \" APROVAR a Prestação de Contas Parcial nº 2 do Termo de Fomento nº 04/2025, apresentada pela Clínica Batista “Peggy Pemble”, relativa à segunda parcela de R$ 188.970,00 (cento e oitenta e oito mil, novecentos e setenta reais), acolhendo as manifestações técnica e financeira e os esclarecimentos constantes dos documentos acima identificados.\"  CMA deve dá ciência à OSC. PRESTAÇÃO DE CONTAS 3(00046.002663/2024-44) : EM 23/11/2026 PARECER DE CONFORMIDADE ENVIADO PARA O GESTOR DO TERMO."
   },
   {
     "vereador": "JOAQUIM CALDAS",
@@ -1309,7 +1309,7 @@
     "valorPago": 724000.0,
     "percentualPago": 100.0,
     "situacao": "Executada",
-    "observacao": "Situação:  Prestação de Contas (00045.014804/2026-44) ENVIADA RESPOSTA DA ENTIDADE PARA CGM EM 05/11/2026"
+    "observacao": "Situação:  cGM APROVOU PRESTAÇÃO DE CONTAS EM 13/11/2026, PROCESSO DEVE SER ENVIADO AO GAB-PRES-FMS PARA HOMOLOGAÇÃO"
   },
   {
     "vereador": "JOAQUIM CALDAS",
@@ -1453,7 +1453,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Enviado para a SEMPLAN impedimento em 04/11/2026. Reenviado para a FMS em 12/11/2026. Está na DAB, DAE e GDP."
+    "observacao": "Enviado para OSC para ajustes no Plano de Trabalho em 23/11/2026. Prazo 15 dias."
   },
   {
     "vereador": "LEONIDAS JÚNIOR",
@@ -1570,7 +1570,7 @@
   {
     "vereador": "LUIS ANDRÉ",
     "ano": 2025,
-    "processo": "00046.002641/2024-56",
+    "processo": "Pago em sua totalidade. Aguardando 3ª Prestação de Contas. Prestação de contas 1: 00045.016592/2026-74 enviado para CGM em 04/11/2026.  REITEROU PARECER FAVORÁVEL, ENVIAR PARA GAB-PRES-FMS PARA HOMOLOGAÇÃO.Prestação de Contas 2: 00045.034980/2026-44 enviado para a CGM em 05/11/2026.  REITEROU PARECER FAVORÁVEL, ENVIAR PARA GAB-PRES-FMS PARA HOMOLOGAÇÃO.PRESTAÇÃO DE CONTAS 3( 00045.067647/2026-56):EM 23/11/2026 ENVIADO PARA O GESTOR PARA ANÁLISE.",
     "emenda": "6/2025",
     "projeto": "Realização de mutirões de consultas para redução de fila de espera de regulação pela FMS: Oftalmologia, Ortopedia e taumatologia, Cardiologia e Neuro. ATENDIMENTO E OFERTA DE CUIDADOS INTEGRADOS (OCI)  EM OFTALMOLOGIA, CARDIOLOGIA E ORTOPEDIA.",
     "diretoria": "DRCAA",
@@ -1869,7 +1869,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Em 13/11/2026 foi enviado para FMS. Enviado para DAE, DAB e GDP pra emssão de parecer técnico."
+    "observacao": "Em 23/11/2026 enviado para a entidade para ajustes no plano de trabalho"
   },
   {
     "vereador": "RONCALLIN",
@@ -2253,7 +2253,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Enviado para FMS em 22/10/2026.Em 18/11/2026 foi enviado Ofício para entidade para ajustes no Plano de Trabalho. Entidade possui 15 dias para ajustes."
+    "observacao": "Enviado para FMS em 22/10/2026.Em 23/11/2026 foi enviado Ofício para entidade para ajustes no Plano de Trabalho. Entidade possui 15 dias para ajustes."
   },
   {
     "vereador": "VENANCIO",
