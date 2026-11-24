@@ -829,7 +829,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Em 16/11/2026 foi enviado para FMS para análise técnica."
+    "observacao": "Em 16/11/2026 foi enviado para FMS para análise técnica.Em 24/11/2026 enviado para OSC para ajustes."
   },
   {
     "vereador": "ENZO SAMUEL",
@@ -938,10 +938,10 @@
     "beneficiario": "Associação Brasileira de Pesquisa e Tratamentos Multidisciplinares da Paralisia Cerebral - Instituto Rizo Movement",
     "valor": 500000.0,
     "valorEmpenhado": 500000.0,
-    "valorPago": 0.0,
-    "percentualPago": 0.0,
-    "situacao": "Validada",
-    "observacao": "Liquidação em 18/11/2026"
+    "valorPago": 250000.0,
+    "percentualPago": 50.0,
+    "situacao": "Em execução",
+    "observacao": "pago 1 parcela em 24/11/2026"
   },
   {
     "vereador": "FERNANDA GOMES",
@@ -989,7 +989,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Enviado para a FMS em 23/11/2026 para análise técnica"
+    "observacao": "Enviado para a FMS em 23/11/2026 para análise técnica.Em 24/11/2026 enviado para a OSC para ajustes,"
   },
   {
     "vereador": "FERNANDO LIMA",
@@ -1037,7 +1037,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "EM 16/10/2026 foi enviado para a DRCAA para emissão de parecer técnico. Em 13/11/2026 foi enviado para DAB para manifestação técnica conforme solicitação da DRCAA."
+    "observacao": "EM 16/10/2026 foi enviado para a DRCAA para emissão de parecer técnico. Em 13/11/2026 foi enviado para DAB para manifestação técnica conforme solicitação da DRCAA. Em 24/112026 OSC fez peticionamento externo como novo plano e cotações"
   },
   {
     "vereador": "ISMAEL SILVA",
@@ -1114,10 +1114,10 @@
     "beneficiario": "FMS",
     "valor": 707000.0,
     "valorEmpenhado": 706929.66,
-    "valorPago": 543401.82,
-    "percentualPago": 76.87,
-    "situacao": "Em execução",
-    "observacao": "Em execução.  Resta um valor de R$ 163.527,84 a ser pago no empenho 4014/2026 empresa PRLV Indústria"
+    "valorPago": 706929.66,
+    "percentualPago": 100.0,
+    "situacao": "Finalizada, executada",
+    "observacao": "Emenda totalmente executada"
   },
   {
     "vereador": "JAMES GUERRA",
