@@ -77,7 +77,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Em 16/11/2026 foi enviado para FMS. Processo está em análise técnica na DRCAA."
+    "observacao": "Em 16/11/2026 foi enviado para FMS. Processo está em análise técnica na DRCAA e na DAB."
   },
   {
     "vereador": "ALUÍSIO SAMPAIO",
@@ -125,7 +125,7 @@
     "valorPago": 0.0,
     "percentualPago": 0.0,
     "situacao": "Em execução",
-    "observacao": "Processo da licitação: 00045.023247/2026-33 EDITAL DE PREGÃO ELETRÔNICO Nº 144/2026 (equipamentos hospitalares): SITUAÇÃO: EM 25/11/2026 GAH-DAE-FMS manifestou-se pela decisão pela aprovação da proposta desta Empresa. dos Aparelho de emissões Otoacústicas para Triagem Neonatal. . Processo de Licitação: 00045.056673/2025-22 ASSINATURA DA ATA DE REGISTRO DE PREÇOS Nº 00069/2026 - PREGÃO ELETRÔNICO Nº 78/2026 EM 12/11/2026 Nota de Empenho 7114/2026 (17316114), Nota de Empenho 7204/2026 (17385272) e Nota de Empenho 7205/2026 (17385431) foram assinados e enviados para as empresas."
+    "observacao": "Processo da licitação: 00045.023247/2026-33 EDITAL DE PREGÃO ELETRÔNICO Nº 144/2026 (equipamentos hospitalares): SITUAÇÃO: EM 26/11/2026 A Fundação Municipal de Saúde de Teresina negou provimento ao recurso administrativo da empresa CR Monteiro Pinto Aparelhos Auditivos Ltda. contra a vitória da Audiservice Assistência de Aparelhos Auditivos Ltda. nos itens 02 e 06 do Pregão Eletrônico nº 144/2026. Com base no parecer técnico favorável que comprovou o atendimento às especificações do edital pelo equipamento ofertado (MADSEN AccuScreen), manteve-se integralmente a classificação e a vitória da Audiservice.. Processo de Licitação: 00045.056673/2025-22 ASSINATURA DA ATA DE REGISTRO DE PREÇOS Nº 00069/2026 - PREGÃO ELETRÔNICO Nº 78/2026 EM 12/11/2026 Nota de Empenho 7114/2026 (17316114), Nota de Empenho 7204/2026 (17385272) e Nota de Empenho 7205/2026 (17385431) foram assinados e enviados para as empresas."
   },
   {
     "vereador": "ANA FIDELIS",
@@ -413,7 +413,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Validada",
-    "observacao": "Em 18/11/2026 assessoria jurídica emitiu um novo parecer. Em 19/11/2026 foi enviado ofício para a entidade adequar seu plano de trabalho de acordo com as recomendações da assessoria jurídica."
+    "observacao": "Em 18/11/2026 assessoria jurídica emitiu um novo parecer. Em 19/11/2026 foi enviado ofício para a entidade adequar seu plano de trabalho de acordo com as recomendações da assessoria jurídica. AGUARDANDO ALTERAÇÕES DA CLÍNICA BATISTA."
   },
   {
     "vereador": "DANIEL CARVALHO",
@@ -541,7 +541,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Validada",
-    "observacao": "Em 18/11/2026 assessoria jurídica emitiu um novo parecer. Em 19/11/2026 foi enviado ofício para a entidade adequar seu plano de trabalho de acordo com as recomendações da assessoria jurídica."
+    "observacao": "Em 18/11/2026 assessoria jurídica emitiu um novo parecer. Em 19/11/2026 foi enviado ofício para a entidade adequar seu plano de trabalho de acordo com as recomendações da assessoria jurídica. AGUARDANDO ALTERAÇÕES DA CLÍNICA BATISTA."
   },
   {
     "vereador": "EDILBERTO BORGES",
@@ -572,8 +572,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
-    "observacao": "Foi enviado para OSC em 23/11/2026 para ajustes no plano de trabalho. prazo 15 dias."
+    "situacao": "Impedimento Técnico",
+    "observacao": "Em 25/11/2026 a OSC desistiu"
   },
   {
     "vereador": "EDUARDO DRAGA ALANA",
@@ -653,7 +653,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Foi enviado para FMS em 19/11/2026"
+    "observacao": "Foi enviado para FMS em 19/11/2026. Está em análise de conformidade."
   },
   {
     "vereador": "ELZUILA CALISTO",
@@ -669,7 +669,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Processo chegou na FMS em 09/11/2026 com novo plano de trabalho. Enviado para a SEMPLAN em 11/10/2026. Em 12/11/2026 A SEMPLAN enviou Ofício para Vereadora. Em 17/11/2026 foi renviado para a FMS."
+    "observacao": "Processo chegou na FMS em 09/11/2026 com novo plano de trabalho. Enviado para a SEMPLAN em 11/10/2026. Em 12/11/2026 A SEMPLAN enviou Ofício para Vereadora. Em 17/11/2026 foi renviado para a FMS. Processo está na DRCAA para análise técnica."
   },
   {
     "vereador": "ELZUILA CALISTO",
@@ -685,7 +685,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Em 09/11/2026 foi enviado para a FMS. Foi enviado em 13/11/2026 para emissão de parecer técnico."
+    "observacao": "Em 09/11/2026 foi enviado para a FMS. Foi enviado em 13/11/2026 para emissão de parecer técnico. Está na Drcaa e DAB."
   },
   {
     "vereador": "ELZUILA CALISTO",
@@ -829,7 +829,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Em 16/11/2026 foi enviado para FMS para análise técnica.Em 24/11/2026 enviado para OSC para ajustes."
+    "observacao": "Em 16/11/2026 foi enviado para FMS para análise técnica.Em 24/11/2026 enviado para OSC para ajustes. AGUARDANDO AJUSTES DA CLÍNICA BATISTA."
   },
   {
     "vereador": "ENZO SAMUEL",
@@ -973,7 +973,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Enviado pra a FMS em 16/11/2026 para a FMS para análise de conformidade."
+    "observacao": "Enviado pra a FMS em 16/11/2026 para a FMS para análise de conformidade. Plano de trabalho elaborado e assinado, parecer técnico elaborado."
   },
   {
     "vereador": "FERNANDA GOMES",
@@ -989,7 +989,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Enviado para a FMS em 23/11/2026 para análise técnica.Em 24/11/2026 enviado para a OSC para ajustes,"
+    "observacao": "Enviado para a FMS em 23/11/2026 para análise técnica.Em 24/11/2026 enviado para a OSC para ajustes, aguardando o retorno da clínica batista"
   },
   {
     "vereador": "FERNANDO LIMA",
@@ -1037,7 +1037,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "EM 16/10/2026 foi enviado para a DRCAA para emissão de parecer técnico. Em 13/11/2026 foi enviado para DAB para manifestação técnica conforme solicitação da DRCAA. Em 24/112026 OSC fez peticionamento externo como novo plano e cotações"
+    "observacao": "EM 16/10/2026 foi enviado para a DRCAA para emissão de parecer técnico. Em 13/11/2026 foi enviado para DAB para manifestação técnica conforme solicitação da DRCAA. Em 24/112026 OSC fez peticionamento externo como novo plano e cotações. OSC foi orientada a fazer ajsutes."
   },
   {
     "vereador": "ISMAEL SILVA",
@@ -1229,7 +1229,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Processo foi enviado para a FMS em 18/11/2026"
+    "observacao": "Processo foi enviado para a FMS em 18/11/2026. Em 26/11/2026 foi enviado parecer técnico par OSC para ajsutes."
   },
   {
     "vereador": "JOÃO PEREIRA",
@@ -1440,7 +1440,7 @@
     "observacao": ""
   },
   {
-    "vereador": "LEONIDAS JÚNIOR",
+    "vereador": "LEONDIDAS JÚNIOR",
     "ano": 2026,
     "processo": "00046.009555/2025-03",
     "emenda": "9/2026",
@@ -1452,11 +1452,11 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
-    "observacao": "Enviado para OSC para ajustes no Plano de Trabalho em 23/11/2026. Prazo 15 dias."
+    "situacao": "impedimento Técnico",
+    "observacao": "Em 25/11/2026 a pedido do vereador."
   },
   {
-    "vereador": "LEONIDAS JÚNIOR",
+    "vereador": "LEONDIDAS JÚNIOR",
     "ano": 2026,
     "processo": "00046.009548/2025-95",
     "emenda": "2/2026",
@@ -1548,8 +1548,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
-    "observacao": "Proceso enviado para a FMS em 13/11/2026. Processo está na DRCAA para análsie técnica"
+    "situacao": "Impedimento Técnico",
+    "observacao": "Em 25/11/2026 a pedido da vereadora"
   },
   {
     "vereador": "LUCY SOARES",
@@ -1597,7 +1597,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Validada",
-    "observacao": "HÁ MANIFESTAÇÃO JURÍDICA PROCESSO ESTÁ NA GISAB E DPLAN"
+    "observacao": "HÁ MANIFESTAÇÃO JURÍDICA PROCESSO ESTÁ NA GISAB E DPLAN. processo enviado para clinica batista para ajustes"
   },
   {
     "vereador": "LUIS LOBÃO",
@@ -1868,8 +1868,8 @@
     "valorEmpenhado": 0.0,
     "valorPago": 0.0,
     "percentualPago": 0,
-    "situacao": "Em validação",
-    "observacao": "Em 23/11/2026 enviado para a entidade para ajustes no plano de trabalho"
+    "situacao": "Impedimento Técnico",
+    "observacao": "Em 25/11/2026 a OSC desistiu. Em 26/11/2026 foi enviado ofício para o vereador"
   },
   {
     "vereador": "RONCALLIN",
@@ -2125,7 +2125,7 @@
     "valorPago": 610000.0,
     "percentualPago": 100.0,
     "situacao": "Executada",
-    "observacao": "Pago em sua totalidade. Aditivo não foi autorizado pela AJU. Projeto Teresina viva: 00045.072269/2025-07. Em 14/09/2026 foi emitida decisão administrativa: Devido à extinção do Termo de Fomento nº 13/2025 em 29/07/2026 e ao pedido extemporâneo de prorrogação, a Presidência determinou que a DPLAN/CMA, com DAF e gestoras, verifique se houve atraso nos repasses imputável à Administração para avaliar uma prorrogação de ofício. Para isso, devem ser apresentados relatórios do estágio da execução física (incluindo eventos após o vencimento), notificando a OSC para prestar contas da 2ª parcela (R$ 609.925,13) com extratos atualizados. Por fim, exige-se a regularização de uma divergência de R$ 311,67 no valor global do contrato antes do retorno do processo para decisão.\nPrestação de Contas foi realizada no processo: 00045.053954/2026-03. Em 24/09/2026 CMA emitiu Análise de Conformidade de Prestação de Contas foi enviado para OSC para ajustes até o momento sem resposta."
+    "observacao": "Pago em sua totalidade. Aditivo não foi autorizado pela AJU. Projeto Teresina viva: 00045.072269/2025-07. Em 14/09/2026 foi emitida decisão administrativa: Devido à extinção do Termo de Fomento nº 13/2025 em 29/07/2026 e ao pedido extemporâneo de prorrogação, a Presidência determinou que a DPLAN/CMA, com DAF e gestoras, verifique se houve atraso nos repasses imputável à Administração para avaliar uma prorrogação de ofício. Para isso, devem ser apresentados relatórios do estágio da execução física (incluindo eventos após o vencimento), notificando a OSC para prestar contas da 2ª parcela (R$ 609.925,13) com extratos atualizados. Por fim, exige-se a regularização de uma divergência de R$ 311,67 no valor global do contrato antes do retorno do processo para decisão.\nPrestação de Contas foi realizada no processo: 00045.053954/2026-03. Em 26/11/2026 CMA emitiu Análise de Conformidade de Prestação de Contas foi enviado para GESTOR PARA APRECIAÇÃO"
   },
   {
     "vereador": "VALDEMIR VIRGINO",
@@ -2141,7 +2141,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Validada",
-    "observacao": "Está na DPLAN em análise de conformidade. HÁ MANIFESTAÇÃO JURÍDICA. ENVIADO PARA GISAB"
+    "observacao": "OFICIO ENVIADO PARA CLINICA BATISTA PARA AJUSTES"
   },
   {
     "vereador": "VALDEMIR VIRGINO",
@@ -2237,7 +2237,7 @@
     "valorPago": 0.0,
     "percentualPago": 0,
     "situacao": "Em validação",
-    "observacao": "Ofício enviado para OSC em 11/11/2026. Entidade possui 15 dias para ajustes."
+    "observacao": "Ofício enviado para OSC em 11/11/2026. Entidade possui 15 dias para ajustes. OSC DEVOLVEU O PLANO EM 26/11/2026 E FOI ORIENTADA PARA AJUSTES."
   },
   {
     "vereador": "VENANCIO",
